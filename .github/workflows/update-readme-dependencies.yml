@@ -1,0 +1,145 @@
+# .github/workflows/update-readme-dependencies.yml
+name: Update README Dependencies
+
+on:
+  push:
+    paths:
+      - 'renv.lock'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up R
+      uses: r-lib/actions/setup-r@v2
+      with:
+        r-version: '4.1.0'
+        
+    - name: Parse renv.lock and update README
+      run: |
+        cat > parse_renv.R << 'EOF'
+        # Parse renv.lock file
+        if (!file.exists("renv.lock")) {
+          cat("Error: renv.lock file not found. Exiting workflow.\n")
+          quit(status = 1)
+        }
+        lockfile <- jsonlite::read_json("renv.lock")
+        packages <- lockfile$Packages
+        
+        # Get R version from lockfile
+        r_version <- lockfile$R$Version
+        
+        # Function to extract library calls from R files
+        extract_library_calls <- function(file_path) {
+          if (!file.exists(file_path)) return(character(0))
+          
+          content <- readLines(file_path, warn = FALSE)
+          
+          # Patterns to match library() and require() calls
+          patterns <- c(
+            'library\\s*\\(\\s*["\']?([^"\'\\s,)]+)["\']?\\s*\\)',
+            'require\\s*\\(\\s*["\']?([^"\'\\s,)]+)["\']?\\s*\\)'
+          )
+          
+          libs <- character(0)
+          for (pattern in patterns) {
+            matches <- regmatches(content, gregexpr(pattern, content, perl = TRUE))
+            for (match_line in matches) {
+              if (length(match_line) > 0 && match_line != "") {
+                # Extract package name from the match
+                pkg_names <- gsub(pattern, "\\1", match_line, perl = TRUE)
+                libs <- c(libs, pkg_names)
+              }
+            }
+          }
+          
+          return(unique(libs))
+        }
+        
+        # Find all R files in the project
+        r_files <- list.files(".", pattern = "\\.(R|r|Rmd|rmd)$", recursive = TRUE, full.names = TRUE)
+        
+        # Extract library calls from all R files
+        explicitly_loaded <- character(0)
+        for (file in r_files) {
+          explicitly_loaded <- c(explicitly_loaded, extract_library_calls(file))
+        }
+        explicitly_loaded <- unique(explicitly_loaded)
+        
+        # Get base R packages dynamically
+        base_packages <- rownames(installed.packages(priority="base"))
+        
+        # Filter packages: only include those that are explicitly loaded AND not base packages
+        relevant_packages <- packages[names(packages) %in% explicitly_loaded & !names(packages) %in% base_packages]
+        
+        # Create a clean data frame
+        pkg_df <- data.frame(
+          Package = names(relevant_packages),
+          Version = sapply(relevant_packages, function(x) x$Version %||% "Unknown"),
+          stringsAsFactors = FALSE
+        )
+        
+        # Sort by package name
+        pkg_df <- pkg_df[order(pkg_df$Package), ]
+        
+        # Create markdown bullet list with R version header
+        markdown_list <- paste0(
+          "**R Version:** ", r_version, "\n\n",
+          if (nrow(pkg_df) > 0) {
+            paste0("- ", pkg_df$Package, " (", pkg_df$Version, ")", collapse = "\n")
+          } else {
+            "*No explicitly loaded packages found*"
+          }
+        )
+        
+        # Read current README
+        readme_content <- readLines("README.md")
+        
+        # Find and replace the placeholder
+        # Look for <!-- DEPENDENCIES_START --> and <!-- DEPENDENCIES_END -->
+        start_idx <- which(grepl("<!-- DEPENDENCIES_START -->", readme_content))
+        end_idx <- which(grepl("<!-- DEPENDENCIES_END -->", readme_content))
+        
+        if (length(start_idx) > 0 && length(end_idx) > 0) {
+          # Replace content between markers
+          new_content <- c(
+            readme_content[1:start_idx],
+            markdown_list,
+            readme_content[end_idx:length(readme_content)]
+          )
+          
+          # Write updated README
+          writeLines(new_content, "README.md")
+          cat("README updated successfully!\n")
+        } else {
+          cat("Error: Could not find dependency markers in README.md\n")
+          cat("Please add <!-- DEPENDENCIES_START --> and <!-- DEPENDENCIES_END --> markers\n")
+        }
+        EOF
+        
+        # Install required packages and run script
+        Rscript -e "install.packages('jsonlite')"
+        Rscript parse_renv.R
+        
+    - name: Check for changes
+      id: changes
+      run: |
+        if git diff --quiet README.md; then
+          echo "changed=false" >> $GITHUB_OUTPUT
+        else
+          echo "changed=true" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: Commit changes
+      if: steps.changes.outputs.changed == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git commit -m "Update README dependencies from renv.lock"
+        git push
