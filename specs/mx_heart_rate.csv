@@ -1,0 +1,2 @@
+concept_set_id,name,concept_id,concept_code,concept_name,domain,vocabulary,standard_concept,valid_start_date,valid_end_date
+15,mx_heart_rate,3027018,8867-4,Heart rate,Measurement,LOINC,S,1969-12-31,2099-12-30

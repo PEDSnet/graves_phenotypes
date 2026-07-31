@@ -1,0 +1,585 @@
+concept_set_id,name,concept_id,concept_code,concept_name,domain,vocabulary,standard_concept,valid_start_date,valid_end_date
+3,autoimmune (minus graves),4048780,230679002,Abnormality of synaptic vesicles,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4292371,402427003,Accelerated rheumatoid nodulosis,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4297649,402428008,Accelerated rheumatoid nodulosis caused by methotrexate,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4043729,230671004,Acetylcholine resynthesis deficiency,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),45766603,703802001,Acquired angioedema due to C1 inhibitor autoantibody,Condition,SNOMED,S,2014-07-30,2099-12-30
+3,autoimmune (minus graves),4100661,2772003,Acquired epidermolysis bullosa,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4223490,402398001,Acute autoimmune urticaria,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),3654666,838359008,Acute cutaneous lupus erythematosus,Condition,SNOMED,S,2020-07-30,2099-12-30
+3,autoimmune (minus graves),374021,83942000,Acute disseminated encephalomyelitis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),43530701,182961000119101,Acute disseminated encephalomyelitis following infectious disease,Condition,SNOMED,S,2013-07-30,2099-12-30
+3,autoimmune (minus graves),3192039,13830001000004109,Acute exacerbation of myasthenia gravis,Condition,Nebraska Lexicon,S,2016-01-27,2099-12-30
+3,autoimmune (minus graves),4294427,402856005,Acute hemorrhagic edema of childhood,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4249574,72986009,Acute hemorrhagic leukoencephalitis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),37396786,716723000,Acute inflammatory demyelinating polyradiculoneuropathy,Condition,SNOMED,S,2016-07-30,2099-12-30
+3,autoimmune (minus graves),37396086,715770009,Acute motor axonal neuropathy,Condition,SNOMED,S,2016-07-30,2099-12-30
+3,autoimmune (minus graves),37396785,716722005,Acute motor sensory axonal neuropathy,Condition,SNOMED,S,2016-07-30,2099-12-30
+3,autoimmune (minus graves),37204541,783244002,Acute pure sensory neuropathy,Condition,SNOMED,S,2019-07-30,2099-12-30
+3,autoimmune (minus graves),607766,1155919006,Acute rheumatic aortitis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),4216531,81077008,Acute rheumatic arthritis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),606882,1148763004,Acute rheumatic carditis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),437897,18192007,Acute rheumatic endocarditis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),40394098,195528001,Acute rheumatic fever,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),313500,312591002,Acute rheumatic heart disease,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),321578,194709000,Acute rheumatic myocarditis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4271684,64072006,Acute rheumatic pancarditis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),321586,15676002,Acute rheumatic pericarditis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4225090,84871007,Acute rheumatic valvulitis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4126439,236503001,Acute scleroderma renal crisis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),35623634,766049000,Acute sensory ataxic neuropathy,Condition,SNOMED,S,2018-07-30,2099-12-30
+3,autoimmune (minus graves),4295179,403486000,Acute systemic lupus erythematosus,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4298436,76715008,Addison's disease due to autoimmunity,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4081252,238942002,Adult linear immunoglobulin A disease,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),37312293,788613004,Anti-glomerular basement membrane disease,Condition,SNOMED,S,2020-01-30,2099-12-30
+3,autoimmune (minus graves),4267717,62853008,Anti-glomerular basement membrane tubulointerstitial nephritis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4098292,26843008,Antiphospholipid syndrome,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),45773068,72161000119100,Antiphospholipid syndrome in pregnancy,Condition,SNOMED,S,2014-07-30,2099-12-30
+3,autoimmune (minus graves),40482477,445187004,Antisynthetase syndrome,Condition,SNOMED,S,2010-07-30,2099-12-30
+3,autoimmune (minus graves),3654673,838366009,Anti-synthetase syndrome due to dermatomyositis,Condition,SNOMED,S,2020-07-30,2099-12-30
+3,autoimmune (minus graves),606431,1144974009,Antisynthetase syndrome due to polymyositis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),4224624,402401003,Autoimmune angioedema,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),36716818,723004005,Autoimmune bullous dermatosis,Condition,SNOMED,S,2017-01-30,2099-12-30
+3,autoimmune (minus graves),37017388,713654004,Autoimmune cholangitis,Condition,SNOMED,S,2016-01-30,2099-12-30
+3,autoimmune (minus graves),4179877,362992004,Autoimmune connective tissue disorder,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),434621,85828009,Autoimmune disease,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),765298,1083191000119108,Autoimmune disorder of bilateral inner ears,Condition,SNOMED,S,2018-02-28,2099-12-30
+3,autoimmune (minus graves),4337463,232308006,Autoimmune disorder of inner ear,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),604546,1088321000119102,Autoimmune disorder of left inner ear,Condition,SNOMED,S,2021-01-30,2099-12-30
+3,autoimmune (minus graves),602712,1090931000119104,Autoimmune disorder of right inner ear,Condition,SNOMED,S,2021-01-30,2099-12-30
+3,autoimmune (minus graves),4318558,95643007,Autoimmune encephalitis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),764228,452281000124106,Autoimmune encephalitis caused by N-methyl D-aspartate receptor antibody,Condition,SNOMED,S,2017-02-28,2099-12-30
+3,autoimmune (minus graves),35623409,765751002,Autoimmune encephalopathy with parasomnia and obstructive sleep apnea,Condition,SNOMED,S,2018-07-30,2099-12-30
+3,autoimmune (minus graves),4028942,237822008,Autoimmune endocrine disease,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4341626,235728001,Autoimmune enteropathy,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),36716320,722288007,Autoimmune enteropathy and endocrinopathy with susceptibility to chronic infection syndrome,Condition,SNOMED,S,2017-01-30,2099-12-30
+3,autoimmune (minus graves),3654638,838330008,Autoimmune ganglionopathy,Condition,SNOMED,S,2020-07-30,2099-12-30
+3,autoimmune (minus graves),441269,413603009,Autoimmune hemolytic anemia,Condition,SNOMED,S,2005-01-30,2099-12-30
+3,autoimmune (minus graves),4130680,127061005,"Autoimmune hemolytic anemia, categorized by antibody class AND/OR complement",Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4039536,11781007,Autoimmune hemolytic anemia due to complement,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4238904,91411007,Autoimmune hemolytic anemia due to IgA,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4143167,33491002,Autoimmune hemolytic anemia due to IgA plus complement,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4209139,5603006,Autoimmune hemolytic anemia due to IgG,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4269919,62609001,Autoimmune hemolytic anemia due to IgG plus complement,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4215784,71832003,Autoimmune hemolytic anemia due to IgM,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),36713763,718716008,Autoimmune hemolytic anemia mixed type,Condition,SNOMED,S,2017-01-30,2099-12-30
+3,autoimmune (minus graves),200762,408335007,Autoimmune hepatitis,Condition,SNOMED,S,2004-01-30,2099-12-30
+3,autoimmune (minus graves),36715923,721711009,Autoimmune hepatitis type 1,Condition,SNOMED,S,2017-01-30,2099-12-30
+3,autoimmune (minus graves),36717496,721712002,Autoimmune hepatitis type 2,Condition,SNOMED,S,2017-01-30,2099-12-30
+3,autoimmune (minus graves),36715924,721713007,Autoimmune hepatitis type 3,Condition,SNOMED,S,2017-01-30,2099-12-30
+3,autoimmune (minus graves),4326738,75316000,Autoimmune hypoparathyroidism,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4030201,237706000,Autoimmune hypophysitis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4034815,237519003,Autoimmune hypothyroidism,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),40483721,443899007,Autoimmune inflammation of skeletal muscle,Condition,SNOMED,S,2010-01-30,2099-12-30
+3,autoimmune (minus graves),36717242,723022008,Autoimmune keratitis,Condition,SNOMED,S,2017-01-30,2099-12-30
+3,autoimmune (minus graves),4051056,123777002,Autoimmune leukopenia,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4340391,235890007,Autoimmune liver disease,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),36716807,722991004,Autoimmune myopathy,Condition,SNOMED,S,2017-01-30,2099-12-30
+3,autoimmune (minus graves),37396156,715863001,Autoimmune necrotizing myopathy,Condition,SNOMED,S,2016-07-30,2099-12-30
+3,autoimmune (minus graves),4172999,276575001,Autoimmune neonatal thrombocytopenia,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4125635,234425008,Autoimmune neutropenia,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),3654632,838324008,Autoimmune optic neuropathy,Condition,SNOMED,S,2020-07-30,2099-12-30
+3,autoimmune (minus graves),40490446,448542008,Autoimmune pancreatitis,Condition,SNOMED,S,2011-07-30,2099-12-30
+3,autoimmune (minus graves),36716715,722872000,Autoimmune pancreatitis type 1,Condition,SNOMED,S,2017-01-30,2099-12-30
+3,autoimmune (minus graves),4082738,183005,Autoimmune pancytopenia,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4099336,190454008,Autoimmune parathyroiditis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),42709859,449731009,Autoimmune polyendocrine syndrome type 3,Condition,SNOMED,S,2012-01-30,2099-12-30
+3,autoimmune (minus graves),42709858,449730005,Autoimmune polyendocrine syndrome type 4,Condition,SNOMED,S,2012-01-30,2099-12-30
+3,autoimmune (minus graves),4223448,41864002,Autoimmune polyendocrinopathy,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4028936,237790001,Autoimmune primary ovarian failure,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),3661498,838551007,Autoimmune progesterone dermatitis,Condition,SNOMED,S,2020-07-30,2099-12-30
+3,autoimmune (minus graves),45768909,707443007,Autoimmune pulmonary alveolar proteinosis,Condition,SNOMED,S,2015-01-30,2099-12-30
+3,autoimmune (minus graves),37110540,724809006,Autoimmune retinopathy,Condition,SNOMED,S,2017-07-30,2099-12-30
+3,autoimmune (minus graves),4176595,428470000,Autoimmune sensorineural hearing loss,Condition,SNOMED,S,2008-01-30,2099-12-30
+3,autoimmune (minus graves),4319304,95329006,Autoimmune skin disease,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4281109,66944004,Autoimmune thyroiditis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4224623,402397006,Autoimmune urticaria,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4221673,402402005,Autoimmune urticaria and/or angioedema,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4146124,427213005,Autoimmune vasculitis,Condition,SNOMED,S,2007-07-30,2099-12-30
+3,autoimmune (minus graves),36680582,778004006,Autoinflammation-PLCG2-associated antibody deficiency-immune dysregulation,Condition,SNOMED,S,2019-01-30,2099-12-30
+3,autoimmune (minus graves),36676444,773333003,Autosomal systemic lupus erythematosus,Condition,SNOMED,S,2019-01-30,2099-12-30
+3,autoimmune (minus graves),4059145,19719003,Benign lymphocytic infiltration of Jessner,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4142060,34250006,Benign mucous membrane pemphigoid,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),433279,267800008,Benign mucous membrane pemphigoid with no eye involvement,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),376189,76092003,Benign mucous membrane pemphigoid with ocular involvement,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),37209321,15686281000119101,Bilateral rheumatoid arthritis of feet,Condition,SNOMED,S,2019-07-30,2099-12-30
+3,autoimmune (minus graves),37209323,15687321000119109,Bilateral rheumatoid arthritis of hands,Condition,SNOMED,S,2019-07-30,2099-12-30
+3,autoimmune (minus graves),37209322,15687201000119107,Bilateral rheumatoid arthritis of knees,Condition,SNOMED,S,2019-07-30,2099-12-30
+3,autoimmune (minus graves),37209311,15673361000119100,Bilateral rheumatoid nodule of subcutaneous tissue of elbows,Condition,SNOMED,S,2019-07-30,2099-12-30
+3,autoimmune (minus graves),37209312,15673521000119101,Bilateral rheumatoid nodule of subcutaneous tissue of hands,Condition,SNOMED,S,2019-07-30,2099-12-30
+3,autoimmune (minus graves),608810,15691121000119103,Bilateral seronegative rheumatoid arthritis of elbow joints,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),608809,15691081000119100,Bilateral seronegative rheumatoid arthritis of feet,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),608811,15691241000119101,Bilateral seronegative rheumatoid arthritis of knees,Condition,SNOMED,S,2021-01-30,2099-12-30
+3,autoimmune (minus graves),608812,15691321000119101,Bilateral seronegative rheumatoid arthritis of wrists,Condition,SNOMED,S,2021-01-30,2099-12-30
+3,autoimmune (minus graves),603301,15691961000119105,Bilateral seropositive rheumatoid arthritis of ankle joints,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),609024,16050071000119108,Bilateral seropositive rheumatoid arthritis of feet,Condition,SNOMED,S,2021-01-30,2099-12-30
+3,autoimmune (minus graves),603300,15691921000119100,Bilateral seropositive rheumatoid arthritis of hip joints,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),603302,15692001000119101,Bilateral seropositive rheumatoid arthritis of joint of elbows,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),603299,15691881000119107,Bilateral seropositive rheumatoid arthritis of knees,Condition,SNOMED,S,2021-01-30,2099-12-30
+3,autoimmune (minus graves),603298,15691841000119102,Bilateral seropositive rheumatoid arthritis of shoulder regions,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),608813,15692041000119104,Bilateral seropositive rheumatoid arthritis of wrist joint regions,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),4262682,46459009,Brazilian pemphigus foliaceus,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4299404,402442000,Brunsting-Perry type cicatricial pemphigoid,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4298692,77090002,Bullous pemphigoid,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4346976,239889005,Bullous systemic lupus erythematosus,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),43530808,609329007,Catastrophic antiphospholipid syndrome,Condition,SNOMED,S,2013-07-30,2099-12-30
+3,autoimmune (minus graves),36716394,722386009,Celiac disease with epilepsy and cerebral calcification syndrome,Condition,SNOMED,S,2017-01-30,2099-12-30
+3,autoimmune (minus graves),4081249,238928005,Chilblain lupus erythematosus,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4297653,402439006,Childhood bullous pemphigoid,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),37110504,724767000,Chorea co-occurrent and due to systemic lupus erythematosus,Condition,SNOMED,S,2017-07-30,2099-12-30
+3,autoimmune (minus graves),36687200,16098491000119109,Chronic autoimmune hepatitis,Condition,SNOMED,S,2019-01-30,2099-12-30
+3,autoimmune (minus graves),4221671,402399009,Chronic autoimmune urticaria,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4031099,109250009,Chronic bullous dermatosis of childhood,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4131128,127055007,Chronic cold agglutinin disease,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4130194,127056008,Chronic cold agglutinin disease associated with B-cell neoplasm,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4081248,238927000,Chronic discoid lupus erythematosus,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4318674,22098000,Chronic idiopathic autoimmune hemolytic anemia,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),318397,13172003,Chronic idiopathic thrombocytopenic purpura,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),46273049,711526005,Chronic localized pemphigoid,Condition,SNOMED,S,2015-07-30,2099-12-30
+3,autoimmune (minus graves),3184561,22880001000004107,Chronic lupus nephritis,Condition,Nebraska Lexicon,S,2016-01-27,2099-12-30
+3,autoimmune (minus graves),606781,1148594002,Chronic rheumatic arthritis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),606883,1148765006,Chronic rheumatic carditis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),4263730,46165000,Chronic rheumatic endocarditis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4235735,90453003,Chronic rheumatic mediastinopericarditis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4117862,286947004,Chronic rheumatic mitral valvulitis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4264740,61012002,Chronic rheumatic myocarditis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4192358,756003,Chronic rheumatic myopericarditis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),607075,1149066008,Chronic rheumatic pancarditis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),321307,78069008,Chronic rheumatic pericarditis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4231452,89456004,Chronic rheumatic valvulitis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),40639636,82939003,Chronic rheumatoid nodular fibrosis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),4165240,41030002,Coccidioidomycosis with erythema multiforme,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4130193,127054006,Cold agglutinin disease due to Epstein-Barr virus infection,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4160887,398937006,Cold autoimmune hemolytic anemia,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4048655,230673001,Congenital end-plate acetylcholine receptor deficiency,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4048779,230677000,Congenital end-plate acetylcholinesterase deficiency,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4046356,230672006,Congenital myasthenic syndrome,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4135937,31848007,CREST syndrome,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4266527,62382002,CRST syndrome,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4297650,402431009,Cutaneous atrophy due to rheumatoid arthritis,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4299403,402434001,Cutaneous complication of rheumatoid disease,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4324123,7119001,Cutaneous lupus erythematosus,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4045728,230678005,Decrease of motor end-plate potential amplitude without acetylcholine receptor deficiency,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),42534841,1073891000119106,Deformity of left foot co-occurrent and due to rheumatoid arthritis,Condition,SNOMED,S,2018-01-30,2099-12-30
+3,autoimmune (minus graves),42534839,1073871000119105,Deformity of left hand co-occurrent and due to rheumatoid arthritis,Condition,SNOMED,S,2018-01-30,2099-12-30
+3,autoimmune (minus graves),42534840,1073881000119108,Deformity of right foot co-occurrent and due to rheumatoid arthritis,Condition,SNOMED,S,2018-01-30,2099-12-30
+3,autoimmune (minus graves),42534838,1073861000119104,Deformity of right hand co-occurrent and due to rheumatoid arthritis,Condition,SNOMED,S,2018-01-30,2099-12-30
+3,autoimmune (minus graves),37110518,724782005,Demyelination of central nervous system co-occurrent and due to Sjogren disease,Condition,SNOMED,S,2017-07-30,2099-12-30
+3,autoimmune (minus graves),37110517,724781003,Demyelination of central nervous system co-occurrent and due to systemic lupus erythematosus,Condition,SNOMED,S,2017-07-30,2099-12-30
+3,autoimmune (minus graves),140487,111196000,Dermatitis herpetiformis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),36715420,721093000,Dianzani autoimmune lymphoproliferative disease,Condition,SNOMED,S,2017-01-30,2099-12-30
+3,autoimmune (minus graves),4028118,10713006,Diffuse interstitial rheumatoid disease of lung,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),606390,1144925008,Diffuse systemic sclerosis of childhood,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),4066824,200938002,Discoid lupus erythematosus,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),432919,79291003,Discoid lupus erythematosus of eyelid,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4296505,403498005,Discoid lupus erythematosus of face,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4299824,403501005,Discoid lupus erythematosus of foot,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4296503,403496009,Discoid lupus erythematosus of genital mucous membranes,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4295303,403500006,Discoid lupus erythematosus of hands,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4295302,403499002,Discoid lupus erythematosus of lip,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),45763765,700269001,Discoid lupus erythematosus of lower eyelid,Condition,SNOMED,S,2014-07-30,2099-12-30
+3,autoimmune (minus graves),4295182,403494007,Discoid lupus erythematosus of mucous membranes,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4295301,403495008,Discoid lupus erythematosus of oral mucosa,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4296504,403497000,Discoid lupus erythematosus of scalp,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),45763818,700334001,Discoid lupus erythematosus of upper eyelid,Condition,SNOMED,S,2014-07-30,2099-12-30
+3,autoimmune (minus graves),4296506,403502003,Disseminated discoid lupus erythematosus,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4146936,309742004,Drug-induced autoimmune hemolytic anemia,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4222746,403629000,Drug-induced bullous pemphigoid,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4185596,414061000,Drug-induced cicatricial pemphigoid,Condition,SNOMED,S,2005-01-30,2099-12-30
+3,autoimmune (minus graves),4301166,403632002,Drug-induced epidermolysis bullosa acquisita,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4177482,297942002,Drug-induced erythema multiforme,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4131919,127060006,"Drug-induced immune hemolytic anemia, hapten type",Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4082917,18323000,"Drug-induced immune hemolytic anemia, immune complex type",Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4000065,19307009,Drug-induced immune thrombocytopenia,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4228798,403633007,Drug-induced linear IgA disease,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4198217,80258006,Drug-induced lupus erythematosus,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4263547,61458006,Drug-induced lupus erythematosus due to diphenylhydantoin,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4208241,54912002,Drug-induced lupus erythematosus due to hydralazine,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4119296,22888007,Drug-induced lupus erythematosus due to procainamide,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4066821,200907003,Drug-induced pemphigus,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4301165,403631009,Drug-induced pemphigus foliaceus,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4299976,403630005,Drug-induced pemphigus vulgaris,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4063581,201436003,Drug-induced systemic lupus erythematosus,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4237155,56989000,Eaton-Lambert syndrome,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),43530726,292991000119106,Eaton Lambert syndrome without underlying malignancy,Condition,SNOMED,S,2013-07-30,2099-12-30
+3,autoimmune (minus graves),43531175,608874000,Eaton Lambert syndrome with underlying malignancy,Condition,SNOMED,S,2013-07-30,2099-12-30
+3,autoimmune (minus graves),4305666,82275008,Eosinophilic granulomatosis with polyangiitis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4081253,238943007,Eosinophilic spongiosis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4270870,402436004,Eosinophilic spongiosis (prebullous pemphigoid),Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4297652,402435000,Eosinophilic spongiosis (prebullous pemphigus),Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4297656,402450009,"Epidermolysis bullosa acquisita, Brunsting-Perry type",Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4270874,402448001,"Epidermolysis bullosa acquisita, bullous pemphigoid-like",Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4299405,402449009,"Epidermolysis bullosa acquisita, cicatricial pemphigoid-like",Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4292374,402447006,"Epidermolysis bullosa acquisita, classical acral type",Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4299406,402451008,"Epidermolysis bullosa acquisita, oral mucosal involvement",Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4223491,402400002,Episodic autoimmune urticaria,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4064046,200951007,Erythema marginatum in acute rheumatic fever,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),132702,36715001,Erythema multiforme,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),45768805,707314000,Erythema multiforme co-occurrent with ulcer of oral mucous membrane,Condition,SNOMED,S,2015-01-30,2099-12-30
+3,autoimmune (minus graves),4047122,22972008,"Erythema multiforme, dermal type",Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),3655328,860869003,Erythema multiforme due to Herpes simplex infection,Condition,SNOMED,S,2020-07-30,2099-12-30
+3,autoimmune (minus graves),4299674,403213004,Erythema multiforme due to malignancy,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4294562,402971008,Erythema multiforme due to mycoplasma infection,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),3655329,860870002,Erythema multiforme due to Mycoplasma pneumoniae infection,Condition,SNOMED,S,2020-07-30,2099-12-30
+3,autoimmune (minus graves),3655271,860800001,Erythema multiforme due to systemic fungal infection,Condition,SNOMED,S,2020-07-30,2099-12-30
+3,autoimmune (minus graves),42539147,762375006,Erythema multiforme due to viral disease,Condition,SNOMED,S,2018-01-30,2099-12-30
+3,autoimmune (minus graves),4248562,73658009,"Erythema multiforme, epidermal type",Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4299823,403491004,Erythema multiforme-like lupus erythematosus,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),46270026,123571000119104,Erythema multiforme minor,Condition,SNOMED,S,2015-07-30,2099-12-30
+3,autoimmune (minus graves),4314782,86563000,"Erythema multiforme, mixed dermal-epidermal type",Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4033361,238820002,Erythema multiforme of pregnancy,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),436956,75331009,Evans syndrome,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),1340308,OMOP5165963,Exacerbation of discoid lupus erythematosus,Condition,OMOP Extension,S,2022-05-05,2099-12-30
+3,autoimmune (minus graves),1340391,OMOP5166046,Exacerbation of lupus erythematosus,Condition,OMOP Extension,S,2022-05-05,2099-12-30
+3,autoimmune (minus graves),1340402,OMOP5166057,Exacerbation of myasthenia gravis,Condition,OMOP Extension,S,2022-05-05,2099-12-30
+3,autoimmune (minus graves),1340460,OMOP5166115,Exacerbation of rheumatoid arthritis,Condition,OMOP Extension,S,2022-05-05,2099-12-30
+3,autoimmune (minus graves),1340473,OMOP5166128,Exacerbation of systemic lupus erythematosus,Condition,OMOP Extension,S,2022-05-05,2099-12-30
+3,autoimmune (minus graves),1340479,OMOP5166134,Exacerbation of thyroid eye disease,Condition,OMOP Extension,S,2022-05-05,2099-12-30
+3,autoimmune (minus graves),3173735,13370001000004108,Exacerbation os systemic lupus,Condition,Nebraska Lexicon,S,2016-01-27,2099-12-30
+3,autoimmune (minus graves),4200987,52661003,Extra-articular rheumatoid process,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4048654,230670003,Familial infantile myasthenia,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),42599850,360071000009107,Feline auricular polychondritis,Condition,SNOMED Veterinary,S,2018-02-19,2099-12-30
+3,autoimmune (minus graves),81097,57160007,Felty's syndrome,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4114444,201791009,Flare of rheumatoid arthritis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4296502,403487009,Fulminating systemic lupus erythematosus,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4043730,230686005,Generalized myasthenia,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4046355,230669004,Genetically determined myasthenia,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),37017048,713229006,Gingival disease co-occurrent and due to erythema multiforme,Condition,SNOMED,S,2016-01-30,2099-12-30
+3,autoimmune (minus graves),37019030,713225000,Gingival disease co-occurrent and due to lupus erythematosus,Condition,SNOMED,S,2016-01-30,2099-12-30
+3,autoimmune (minus graves),37397763,89681000119101,Glomerulonephritis co-occurrent and due to scleroderma,Condition,SNOMED,S,2016-07-30,2099-12-30
+3,autoimmune (minus graves),195289,50581000,Goodpasture's syndrome,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4164770,40956001,Guillain-Barré syndrome,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4313581,86225009,Hapten type high affinity hemolytic anemia,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4196102,44206008,Hapten type low affinity hemolytic anemia,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),135215,21983002,Hashimoto thyroiditis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4130012,237500008,Hashitoxicosis - transient,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),433749,73397007,Heparin-induced thrombocytopenia,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4009307,111588002,Heparin-induced thrombocytopenia with thrombosis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4311256,86081009,Herpes gestationis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4102604,28664002,Herpes iris,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),36674992,771145006,Herpetiform pemphigus,Condition,SNOMED,S,2019-01-30,2099-12-30
+3,autoimmune (minus graves),4239565,91623008,Hydroa herpetiformis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4100629,27538003,Hyperthyroidism with Hashimoto disease,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4295181,403492006,Hypertrophic type discoid lupus erythematosus,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4130018,237520009,Hypothyroidism due to Hashimoto's thyroiditis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4030047,237521008,Hypothyroidism due to TSH receptor blocking antibody,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4273847,6398009,Idiopathic chronic cold agglutinin disease,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4271197,62871001,Idiopathic paroxysmal cold hemoglobinuria,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4292551,402717008,IgA pemphigus,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),36675057,771333006,"Immune dysregulation, inflammatory bowel disease, arthritis, recurrent infection syndrome",Condition,SNOMED,S,2019-01-30,2099-12-30
+3,autoimmune (minus graves),4101602,191306005,Immunoglobulin A vasculitis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),36717255,10743271000119103,Immunoglobulin G4 related disease,Condition,SNOMED,S,2017-01-30,2099-12-30
+3,autoimmune (minus graves),4252384,408539000,Insulin autoimmune syndrome,Condition,SNOMED,S,2004-01-30,2099-12-30
+3,autoimmune (minus graves),4129525,237652003,Insulin resistance - type B,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),607144,1149218009,Isolated nailfold rheumatoid vasculitis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),4105021,193207007,Juvenile or adult myasthenia gravis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),35623823,766252004,Juvenile overlap myositis,Condition,SNOMED,S,2018-07-30,2099-12-30
+3,autoimmune (minus graves),37209479,16041671000119109,Juvenile rheumatoid arthritis of bilateral knees,Condition,SNOMED,S,2019-02-28,2099-12-30
+3,autoimmune (minus graves),37204148,16208561000119106,Juvenile rheumatoid arthritis of left knee,Condition,SNOMED,S,2019-02-28,2099-12-30
+3,autoimmune (minus graves),37204149,16208721000119109,Juvenile rheumatoid arthritis of right knee,Condition,SNOMED,S,2019-02-28,2099-12-30
+3,autoimmune (minus graves),4132809,410796000,Juvenile seropositive polyarthritis,Condition,SNOMED,S,2004-07-30,2099-12-30
+3,autoimmune (minus graves),4193620,78946008,"Keratoconjunctivitis sicca, in Sjögren's syndrome",Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),601030,318841000119100,Left ankle seropositive rheumatoid arthritis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),601031,318851000119103,Left elbow seropositive rheumatoid arthritis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),605414,1073611000119103,Left foot seropositive rheumatoid arthritis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),601040,319041000119104,Left hip joint seronegative rheumatoid arthritis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),601042,319061000119100,Left shoulder region seronegative rheumatoid arthritis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),601043,319071000119106,Left wrist region seronegative rheumatoid arthritis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),601034,318901000119107,Left wrist region seropositive rheumatoid arthritis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),35622353,763793004,Limbic encephalitis with contactin-associated protein-like 2 antibodies,Condition,SNOMED,S,2018-07-30,2099-12-30
+3,autoimmune (minus graves),35607961,763794005,Limbic encephalitis with leucine-rich glioma-inactivated 1 antibodies,Condition,SNOMED,S,2018-07-30,2099-12-30
+3,autoimmune (minus graves),4344157,239886003,Limited lupus erythematosus,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4103019,299276009,Limited systemic sclerosis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4317262,95330001,Linear IgA dermatosis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4292372,402437008,Localized bullous pemphigoid of vulva,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4033498,238939008,Localized pemphigoid,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4055370,196137000,Lung disease with Sjögren's disease,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4055640,196138005,Lung disease with systemic lupus erythematosus,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),255304,196133001,Lung disease with systemic sclerosis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4078700,19267009,Lupus anticoagulant disorder,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4299106,77753005,Lupus disease of the lung,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),255891,200936003,Lupus erythematosus,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4033928,238926009,Lupus erythematosus and erythema multiforme-like syndrome,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4299826,403513000,Lupus erythematosus-associated nail dystrophy,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4063427,200937007,Lupus erythematosus chronicus,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4066825,200939005,Lupus erythematosus migrans,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4066480,200940007,Lupus erythematosus nodularis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),45768793,707301001,Lupus erythematosus of oral mucous membrane,Condition,SNOMED,S,2015-01-30,2099-12-30
+3,autoimmune (minus graves),4035795,15084002,Lupus erythematosus profundus,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4066481,200941006,Lupus erythematosus tumidus,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4066482,200942004,Lupus erythematosus unguium mutilans,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4057084,19682006,Lupus hepatitis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4344399,239888002,Lupus panniculitis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),607389,1153358006,Lymphocyte passenger syndrome following organ transplantation,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),4130853,126766000,Lymphoepithelial sialadenitis of Sjögren's syndrome,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),37397520,718175009,Macrophagic myofasciitis,Condition,SNOMED,S,2016-07-30,2099-12-30
+3,autoimmune (minus graves),4121112,234381003,Maternal autoimmune hemolytic anemia,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),606328,1144805008,Microscopic polyangiitis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),4134867,398049005,Mixed collagen vascular disease,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4033368,238850005,Mouth and genital ulcers with inflamed cartilage syndrome,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),3655582,866046008,Mucous membrane pemphigoid of penile mucosa,Condition,SNOMED,S,2020-07-30,2099-12-30
+3,autoimmune (minus graves),45772992,707986004,Mucous membrane pemphigoid with esophageal involvement,Condition,SNOMED,S,2015-01-30,2099-12-30
+3,autoimmune (minus graves),765827,432451000124103,Multiphasic acute disseminated encephalomyelitis,Condition,SNOMED,S,2012-08-31,2099-12-30
+3,autoimmune (minus graves),76685,91637004,Myasthenia gravis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4135454,31839002,"Myasthenia gravis, adult form",Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4045731,230685009,Myasthenia gravis associated with thymoma,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4204694,55051001,"Myasthenia gravis, juvenile form",Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),43531560,77461000119109,Myasthenia gravis with exacerbation,Condition,SNOMED,S,2013-07-30,2099-12-30
+3,autoimmune (minus graves),43531561,77471000119103,Myasthenia gravis without exacerbation,Condition,SNOMED,S,2013-07-30,2099-12-30
+3,autoimmune (minus graves),4215003,80976008,Myasthenic crisis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),36674479,774084003,Neonatal antiphospholipid syndrome,Condition,SNOMED,S,2019-01-30,2099-12-30
+3,autoimmune (minus graves),36674478,774083009,Neonatal autoimmune hemolytic anemia,Condition,SNOMED,S,2019-01-30,2099-12-30
+3,autoimmune (minus graves),36674477,774082004,Neonatal dermatomyositis,Condition,SNOMED,S,2019-01-30,2099-12-30
+3,autoimmune (minus graves),4316373,95609003,Neonatal lupus erythematosus,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),81400,82178003,Neonatal myasthenia gravis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),36674475,774080007,Neonatal scleroderma,Condition,SNOMED,S,2019-01-30,2099-12-30
+3,autoimmune (minus graves),46270384,295101000119105,Nephropathy co-occurrent and due to systemic lupus erythematosus,Condition,SNOMED,S,2015-07-30,2099-12-30
+3,autoimmune (minus graves),37399735,295121000119101,Nephrosis co-occurrent and due to systemic lupus erythematosus,Condition,SNOMED,S,2016-07-30,2099-12-30
+3,autoimmune (minus graves),37395585,295111000119108,Nephrotic syndrome co-occurrent and due to systemic lupus erythematosus,Condition,SNOMED,S,2016-07-30,2099-12-30
+3,autoimmune (minus graves),4203919,54072008,Nonbacterial verrucal endocardiosis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4032899,238818000,Non-bullous erythema multiforme,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4291432,402712002,Occupational scleroderma,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4152707,314757003,Ocular cicatricial pemphigoid,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4048782,230684008,Ocular myasthenia,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4189667,414927004,Ocular myasthenia with strabismus,Condition,SNOMED,S,2005-01-30,2099-12-30
+3,autoimmune (minus graves),4297654,402441007,Oral involvement by mucous membrane pemphigoid,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4270872,402444004,Oral mucosal involvement by dermatitis herpetiformis,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4297655,402446002,Oral mucosal involvement by linear IgA disease,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4270871,402440008,Oral mucous membrane involvement by bullous pemphigoid,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),37397733,718471008,Oral pemphigoid of gingival mucous membrane,Condition,SNOMED,S,2016-07-30,2099-12-30
+3,autoimmune (minus graves),4262581,361212009,Oral pemphigus vulgaris,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4293565,403211002,Papular form erythema multiforme,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),35624130,766722008,Paraparetic variant of Guillain-Barré syndrome,Condition,SNOMED,S,2018-07-30,2099-12-30
+3,autoimmune (minus graves),4131917,127057004,Paroxysmal cold hemoglobinuria,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4130195,127058009,Paroxysmal cold hemoglobinuria associated with tertiary syphilis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),40488855,446682003,Pediatric autoimmune neuropsychiatric disorder associated with streptococcal infection,Condition,SNOMED,S,2011-01-30,2099-12-30
+3,autoimmune (minus graves),42539352,762303003,Pediatric onset Sjögren syndrome,Condition,SNOMED,S,2018-01-30,2099-12-30
+3,autoimmune (minus graves),37119141,724603009,Pediatric onset systemic sclerosis,Condition,SNOMED,S,2017-07-30,2099-12-30
+3,autoimmune (minus graves),139899,86142006,Pemphigoid,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4292373,402438003,Pemphigoid nodularis,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4033931,238940005,Pemphigoid vegetans,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),135338,65172003,Pemphigus,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4279526,36739006,Pemphigus erythematosus,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4148690,35154004,Pemphigus foliaceus,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4082312,277475006,Pemphigus neonatorum,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),36715500,721196005,Pemphigus of vulva,Condition,SNOMED,S,2017-01-30,2099-12-30
+3,autoimmune (minus graves),4291435,402718003,Pemphigus paraneoplastica,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4216037,81285006,Pemphigus vegetans,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4033040,238937005,Pemphigus vegetans of Neumann type,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4170723,49420001,Pemphigus vulgaris,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),37396140,715840006,Pemphigus vulgaris of gingival mucous membrane,Condition,SNOMED,S,2016-07-30,2099-12-30
+3,autoimmune (minus graves),4337524,87442008,Pericarditis secondary to scleroderma,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4101469,25380002,Pericarditis secondary to systemic lupus erythematosus,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4105642,193206003,Persistent neonatal myasthenia gravis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),37204369,783010003,Pharyngeal-cervical-brachial variant of Guillain-Barré syndrome,Condition,SNOMED,S,2019-07-30,2099-12-30
+3,autoimmune (minus graves),42537710,737249005,Photodermatitis co-occurrent and due to autoimmune disease,Condition,SNOMED,S,2018-01-30,2099-12-30
+3,autoimmune (minus graves),4008545,11244009,"Polyglandular autoimmune syndrome, type 1",Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4308266,83728000,"Polyglandular autoimmune syndrome, type 2",Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4130192,127053000,Post-infectious cold agglutinin disease,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4344255,239946005,Postinfective immunoglobulin A vasculitis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4149042,35703006,Post-viral paroxysmal cold hemoglobinuria,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4081251,238938000,Prebullous pemphigoid,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4343924,239892009,Primary antiphospholipid syndrome,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4344159,239894005,Primary antiphospholipid syndrome with multisystem involvement,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4135822,31712002,Primary biliary cholangitis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4098017,191210005,Primary cold-type hemolytic anemia,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4131915,127049002,Primary (idiopathic) autoimmune hemolytic anemia,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4028065,128091003,Primary ITP (immune thrombocytopenia),Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4347058,239912009,Primary Sjögren's syndrome,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4098753,191211009,Primary warm-type hemolytic anemia,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),1340523,OMOP5166178,Progression of rheumatoid arthritis,Condition,OMOP Extension,S,2022-05-05,2099-12-30
+3,autoimmune (minus graves),40485046,444133002,Progressive systemic sclerosis,Condition,SNOMED,S,2010-01-30,2099-12-30
+3,autoimmune (minus graves),4048656,230674007,Pseudomyopathic myasthenia,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4031141,238608008,Psoriasis of scalp,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4299284,402319008,Psoriasis of scalp margin,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4046357,230676009,Putative defect in acetylcholine synthesis or packaging,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),37110004,724015007,"Pyogenic arthritis, pyoderma gangrenosum, acne syndrome",Condition,SNOMED,S,2017-07-30,2099-12-30
+3,autoimmune (minus graves),37109702,723508002,RAS-associated autoimmune leukoproliferative disease,Condition,SNOMED,S,2017-07-30,2099-12-30
+3,autoimmune (minus graves),4319305,95332009,Rash of systemic lupus erythematosus,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),761989,2701000124105,Recurrent acute disseminated encephalomyelitis,Condition,SNOMED,S,2012-02-29,2099-12-30
+3,autoimmune (minus graves),4305575,38933006,Recurrent rheumatic fever,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4062117,20005002,Recurrent rheumatic heart disease,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4216873,72275000,Relapsing polychondritis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4049245,232439007,Relapsing polychondritis of larynx,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4128222,236502006,Renal involvement in scleroderma,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),37204863,783787000,Retinal vasculopathy with cerebral leukoencephalopathy and systemic manifestations,Condition,SNOMED,S,2019-07-30,2099-12-30
+3,autoimmune (minus graves),45765600,702575003,Retinocochleocerebral vasculopathy,Condition,SNOMED,S,2014-07-30,2099-12-30
+3,autoimmune (minus graves),37399445,715401008,Reynolds syndrome,Condition,SNOMED,S,2016-07-30,2099-12-30
+3,autoimmune (minus graves),606783,1148597009,Rheumatic arthritis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),606784,1148598004,Rheumatic arthritis of temporomandibular joint,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),444120,46826000,Rheumatic chorea,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),380126,57803009,Rheumatic chorea with heart involvement,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),372930,123950001,Rheumatic chorea without heart involvement,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),442313,58718002,Rheumatic fever,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4344041,240041006,Rheumatic fever nodule,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),440735,24363009,Rheumatic fever without heart involvement,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),437313,7548000,Rheumatic pneumonia,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4306357,38877003,Rheumatoid aortitis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4269880,399923009,Rheumatoid arteritis,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),80809,69896004,Rheumatoid arthritis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4117687,287008006,Rheumatoid arthritis - ankle and/or foot,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4115161,287007001,Rheumatoid arthritis - hand joint,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),37117421,143441000119108,Rheumatoid arthritis in remission,Condition,SNOMED,S,2017-07-30,2099-12-30
+3,autoimmune (minus graves),4116149,201768005,Rheumatoid arthritis of acromioclavicular joint,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4116445,201779000,Rheumatoid arthritis of ankle,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),36687005,15691721000119102,Rheumatoid arthritis of bilateral ankles,Condition,SNOMED,S,2018-08-31,2099-12-30
+3,autoimmune (minus graves),36687002,15686321000119106,Rheumatoid arthritis of bilateral elbows,Condition,SNOMED,S,2018-08-31,2099-12-30
+3,autoimmune (minus graves),36687003,15687841000119108,Rheumatoid arthritis of bilateral hips,Condition,SNOMED,S,2018-08-31,2099-12-30
+3,autoimmune (minus graves),36686999,15685921000119102,Rheumatoid arthritis of bilateral temporomandibular joints,Condition,SNOMED,S,2018-08-31,2099-12-30
+3,autoimmune (minus graves),36687006,15691761000119107,Rheumatoid arthritis of bilateral wrists,Condition,SNOMED,S,2018-08-31,2099-12-30
+3,autoimmune (minus graves),4116439,201764007,Rheumatoid arthritis of cervical spine,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4114440,201774005,Rheumatoid arthritis of distal interphalangeal joint of finger,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4115050,201770001,Rheumatoid arthritis of distal radioulnar joint,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4116440,201769002,Rheumatoid arthritis of elbow,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4114441,201783000,Rheumatoid arthritis of first metatarsophalangeal joint,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4179378,429192004,Rheumatoid arthritis of foot,Condition,SNOMED,S,2008-01-30,2099-12-30
+3,autoimmune (minus graves),4116150,201775006,Rheumatoid arthritis of hip,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4114442,201785007,Rheumatoid arthritis of interphalangeal joint of toe,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),36683391,781206002,Rheumatoid arthritis of joint of spine,Condition,SNOMED,S,2019-01-30,2099-12-30
+3,autoimmune (minus graves),4116151,201777003,Rheumatoid arthritis of knee,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),36685017,1073681000119109,Rheumatoid arthritis of left ankle,Condition,SNOMED,S,2018-08-31,2099-12-30
+3,autoimmune (minus graves),36685018,1073691000119107,Rheumatoid arthritis of left elbow,Condition,SNOMED,S,2018-08-31,2099-12-30
+3,autoimmune (minus graves),36685019,1073701000119107,Rheumatoid arthritis of left foot,Condition,SNOMED,S,2018-08-31,2099-12-30
+3,autoimmune (minus graves),42534834,1073711000119105,Rheumatoid arthritis of left hand,Condition,SNOMED,S,2018-01-30,2099-12-30
+3,autoimmune (minus graves),42534835,1073721000119103,Rheumatoid arthritis of left hip,Condition,SNOMED,S,2018-01-30,2099-12-30
+3,autoimmune (minus graves),37108590,1073731000119100,Rheumatoid arthritis of left knee,Condition,SNOMED,S,2017-07-30,2099-12-30
+3,autoimmune (minus graves),35609009,1073741000119109,Rheumatoid arthritis of left shoulder,Condition,SNOMED,S,2018-07-30,2099-12-30
+3,autoimmune (minus graves),36687001,15686001000119104,Rheumatoid arthritis of left temporomandibular joint,Condition,SNOMED,S,2018-08-31,2099-12-30
+3,autoimmune (minus graves),36685020,1073751000119106,Rheumatoid arthritis of left wrist,Condition,SNOMED,S,2019-01-30,2099-12-30
+3,autoimmune (minus graves),4116153,201784006,Rheumatoid arthritis of lesser metatarsophalangeal joint,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4116442,201772009,Rheumatoid arthritis of metacarpophalangeal joint,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4117686,287006005,Rheumatoid arthritis of multiple joints,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4116443,201773004,Rheumatoid arthritis of proximal interphalangeal joint of finger,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),36685021,1073761000119108,Rheumatoid arthritis of right ankle,Condition,SNOMED,S,2018-08-31,2099-12-30
+3,autoimmune (minus graves),36685022,1073771000119102,Rheumatoid arthritis of right elbow,Condition,SNOMED,S,2018-08-31,2099-12-30
+3,autoimmune (minus graves),36685023,1073781000119104,Rheumatoid arthritis of right foot,Condition,SNOMED,S,2018-08-31,2099-12-30
+3,autoimmune (minus graves),42534836,1073791000119101,Rheumatoid arthritis of right hand,Condition,SNOMED,S,2018-01-30,2099-12-30
+3,autoimmune (minus graves),42534837,1073801000119100,Rheumatoid arthritis of right hip,Condition,SNOMED,S,2018-01-30,2099-12-30
+3,autoimmune (minus graves),37108591,1073811000119102,Rheumatoid arthritis of right knee,Condition,SNOMED,S,2017-07-30,2099-12-30
+3,autoimmune (minus graves),35609010,1073821000119109,Rheumatoid arthritis of right shoulder,Condition,SNOMED,S,2018-07-30,2099-12-30
+3,autoimmune (minus graves),36687000,15685961000119107,Rheumatoid arthritis of right temporomandibular joint,Condition,SNOMED,S,2018-08-31,2099-12-30
+3,autoimmune (minus graves),36685024,1073831000119107,Rheumatoid arthritis of right wrist,Condition,SNOMED,S,2019-01-30,2099-12-30
+3,autoimmune (minus graves),4116444,201776007,Rheumatoid arthritis of sacroiliac joint,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4114439,201766009,Rheumatoid arthritis of shoulder,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4116148,201767000,Rheumatoid arthritis of sternoclavicular joint,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4116446,201780002,Rheumatoid arthritis of subtalar joint,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4116152,201781003,Rheumatoid arthritis of talonavicular joint,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4179536,427770001,Rheumatoid arthritis of temporomandibular joint,Condition,SNOMED,S,2008-01-30,2099-12-30
+3,autoimmune (minus graves),4115051,201778008,Rheumatoid arthritis of tibiofibular joint,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4116441,201771002,Rheumatoid arthritis of wrist,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),42539550,735599007,Rheumatoid arthritis with erosion of joint,Condition,SNOMED,S,2018-01-30,2099-12-30
+3,autoimmune (minus graves),4297651,402433007,Rheumatoid arthritis with nailfold/finger-pulp infarcts,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4103516,28880005,Rheumatoid carditis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4300202,77522006,Rheumatoid episcleritis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),608043,1156778006,Rheumatoid factor negative and anti-citrullinated protein antibody negative juvenile polyarthritis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),608044,1156779003,Rheumatoid factor negative and anti-citrullinated protein antibody positive juvenile polyarthritis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),608042,1156777001,Rheumatoid factor positive and anti-citrullinated protein antibody negative juvenile polyarthritis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),608041,1156774008,Rheumatoid factor positive and anti-citrullinated protein antibody positive juvenile polyarthritis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),36684997,459911000124100,Rheumatoid factor positive rheumatoid arthritis,Condition,SNOMED,S,2018-08-31,2099-12-30
+3,autoimmune (minus graves),36684998,459921000124108,Rheumatoid factor positive rheumatoid arthritis of the shoulder,Condition,SNOMED,S,2018-08-31,2099-12-30
+3,autoimmune (minus graves),4184896,54867000,Rheumatoid fibrosing alveolitis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),256197,398726004,Rheumatoid lung disease,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4347065,239943002,Rheumatoid necrotizing vasculitis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4299308,402432002,Rheumatoid neutrophilic dermatitis,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),40400211,201789001,Rheumatoid nodule,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),37207812,319861000119106,Rheumatoid nodule of subcutaneous tissue of left elbow,Condition,SNOMED,S,2019-07-30,2099-12-30
+3,autoimmune (minus graves),37207813,319871000119100,Rheumatoid nodule of subcutaneous tissue of left hand,Condition,SNOMED,S,2019-07-30,2099-12-30
+3,autoimmune (minus graves),37207814,319941000119103,Rheumatoid nodule of subcutaneous tissue of right elbow,Condition,SNOMED,S,2019-07-30,2099-12-30
+3,autoimmune (minus graves),37207815,319951000119101,Rheumatoid nodule of subcutaneous tissue of right hand,Condition,SNOMED,S,2019-07-30,2099-12-30
+3,autoimmune (minus graves),4270869,402426007,Rheumatoid nodulosis,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4030424,129563009,Rheumatoid osteoperiostitis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4296152,7607008,Rheumatoid pericarditis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4162539,398640008,Rheumatoid pneumoconiosis,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4243509,59165007,Rheumatoid scleritis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4271003,400054000,Rheumatoid vasculitis,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),601035,318911000119105,Right ankle seropositive rheumatoid arthritis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),601036,318921000119103,Right elbow seropositive rheumatoid arthritis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),605413,1073601000119101,Right foot seropositive rheumatoid arthritis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),601045,319121000119106,Right hip joint seronegative rheumatoid arthritis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),601047,319141000119100,Right shoulder region seronegative rheumatoid arthritis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),601048,319151000119103,Right wrist region seronegative rheumatoid arthritis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),601038,318971000119102,Right wrist region seropositive rheumatoid arthritis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),36674764,770596007,Rippling muscle disease with myasthenia gravis,Condition,SNOMED,S,2019-01-30,2099-12-30
+3,autoimmune (minus graves),4301052,403493001,Rosaceous type discoid lupus erythematosus,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),35622259,763630007,Satoyoshi syndrome,Condition,SNOMED,S,2018-07-30,2099-12-30
+3,autoimmune (minus graves),4033038,238930007,Sclerodermiform reaction,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4344401,239895006,Secondary antiphospholipid syndrome,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4344403,239897003,Secondary antiphospholipid syndrome with multisystem involvement,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4131127,127050002,Secondary autoimmune hemolytic anemia,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),37116297,732962005,Secondary autoimmune hemolytic anemia co-occurrent and due to chronic inflammatory disease,Condition,SNOMED,S,2017-07-30,2099-12-30
+3,autoimmune (minus graves),37116298,732963000,Secondary autoimmune hemolytic anemia co-occurrent and due to lymphoproliferative disorder,Condition,SNOMED,S,2017-07-30,2099-12-30
+3,autoimmune (minus graves),37116300,732965007,Secondary autoimmune hemolytic anemia co-occurrent and due to rheumatic disorder,Condition,SNOMED,S,2017-07-30,2099-12-30
+3,autoimmune (minus graves),37117740,732960002,Secondary autoimmune hemolytic anemia co-occurrent and due to systemic lupus erythematosus,Condition,SNOMED,S,2017-07-30,2099-12-30
+3,autoimmune (minus graves),37116301,732966008,Secondary autoimmune hemolytic anemia co-occurrent and due to ulcerative colitis,Condition,SNOMED,S,2017-07-30,2099-12-30
+3,autoimmune (minus graves),4133983,128092005,Secondary autoimmune thrombocytopenia,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4098754,191212002,Secondary cold-type hemolytic anemia,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4174376,50253007,Secondary paroxysmal cold hemoglobinuria,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4344163,239915006,Secondary Sjögren's syndrome,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4130191,127052005,Secondary warm autoimmune hemolytic anemia,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4101578,191213007,Secondary warm-type hemolytic anemia,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4083556,239792003,Seronegative rheumatoid arthritis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),603308,16606681000119101,Seronegative rheumatoid arthritis in remission,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),37209328,15691161000119108,Seronegative rheumatoid arthritis of bilateral hands,Condition,SNOMED,S,2019-02-28,2099-12-30
+3,autoimmune (minus graves),601039,319011000119103,Seronegative rheumatoid arthritis of joint of left ankle,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),601044,319091000119107,Seronegative rheumatoid arthritis of joint of right ankle,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),37207808,319031000119108,Seronegative rheumatoid arthritis of left hand,Condition,SNOMED,S,2019-02-28,2099-12-30
+3,autoimmune (minus graves),601041,319051000119102,Seronegative rheumatoid arthritis of left knee joint,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),37207809,319081000119109,Seronegative rheumatoid arthritis of multiple joints,Condition,SNOMED,S,2019-07-30,2099-12-30
+3,autoimmune (minus graves),37207810,319111000119104,Seronegative rheumatoid arthritis of right hand,Condition,SNOMED,S,2019-02-28,2099-12-30
+3,autoimmune (minus graves),601046,319131000119109,Seronegative rheumatoid arthritis of right knee joint,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),4147418,308143008,Seropositive erosive rheumatoid arthritis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4035611,239791005,Seropositive rheumatoid arthritis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),603309,16606721000119107,Seropositive rheumatoid arthritis in remission,Condition,SNOMED,S,2021-01-30,2099-12-30
+3,autoimmune (minus graves),37209329,15691801000119104,Seropositive rheumatoid arthritis of bilateral hands,Condition,SNOMED,S,2019-02-28,2099-12-30
+3,autoimmune (minus graves),601033,318891000119108,Seropositive rheumatoid arthritis of joint of left shoulder region,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),601037,318961000119108,Seropositive rheumatoid arthritis of joint of right shoulder region,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),601032,318861000119101,Seropositive rheumatoid arthritis of left hand,Condition,SNOMED,S,2021-01-30,2099-12-30
+3,autoimmune (minus graves),37207804,318871000119107,Seropositive rheumatoid arthritis of left hip,Condition,SNOMED,S,2019-02-28,2099-12-30
+3,autoimmune (minus graves),37207805,318881000119105,Seropositive rheumatoid arthritis of left knee,Condition,SNOMED,S,2019-02-28,2099-12-30
+3,autoimmune (minus graves),37108714,11055151000119108,Seropositive rheumatoid arthritis of multiple joints,Condition,SNOMED,S,2017-07-30,2099-12-30
+3,autoimmune (minus graves),609061,318931000119100,Seropositive rheumatoid arthritis of right hand,Condition,SNOMED,S,2021-01-30,2099-12-30
+3,autoimmune (minus graves),37207806,318941000119109,Seropositive rheumatoid arthritis of right hip,Condition,SNOMED,S,2019-02-28,2099-12-30
+3,autoimmune (minus graves),37207807,318951000119106,Seropositive rheumatoid arthritis of right knee,Condition,SNOMED,S,2019-02-28,2099-12-30
+3,autoimmune (minus graves),254443,83901003,Sjögren's syndrome,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4285717,68815009,SLE glomerulonephritis syndrome,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4250483,73286009,"SLE glomerulonephritis syndrome, WHO class I",Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4186940,4676006,"SLE glomerulonephritis syndrome, WHO class II",Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4297164,76521009,"SLE glomerulonephritis syndrome, WHO class III",Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4267801,36402006,"SLE glomerulonephritis syndrome, WHO class IV",Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4178133,52042003,"SLE glomerulonephritis syndrome, WHO class V",Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4002526,11013005,"SLE glomerulonephritis syndrome, WHO class VI",Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),36674282,771271000,Steroid-responsive encephalopathy associated with autoimmune thyroiditis,Condition,SNOMED,S,2019-01-30,2099-12-30
+3,autoimmune (minus graves),46272746,711164003,STING-associated vasculopathy with onset in infancy,Condition,SNOMED,S,2015-07-30,2099-12-30
+3,autoimmune (minus graves),4262557,361125005,Subacute autoimmune thyroiditis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4343923,239891002,Subacute cutaneous lupus erythematosus,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4299822,403489007,"Subacute cutaneous lupus erythematosus, annular/polycyclic type",Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4295180,403490003,"Subacute cutaneous lupus erythematosus, papulosquamous type",Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),606782,1148595001,Subacute rheumatic arthritis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),4142899,33719002,Subcutaneous rheumatoid nodule,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),36674515,778023004,Syndromic multisystem autoimmune disease due to ITCH deficiency,Condition,SNOMED,S,2019-01-30,2099-12-30
+3,autoimmune (minus graves),3178808,10990001000004109,Systemic lupus complicating pregnancy,Condition,Nebraska Lexicon,S,2016-01-27,2099-12-30
+3,autoimmune (minus graves),257628,55464009,Systemic lupus erythematosus,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4300204,402865003,Systemic lupus erythematosus-associated antiphospholipid syndrome,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4318863,95644001,Systemic lupus erythematosus encephalitis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),44784527,698694005,Systemic lupus erythematosus in remission,Condition,SNOMED,S,2014-01-30,2099-12-30
+3,autoimmune (minus graves),4301051,403488004,Systemic lupus erythematosus of childhood,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4219859,397856003,Systemic lupus erythematosus-related syndrome,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4344400,239890001,Systemic lupus erythematosus with multisystem involvement,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4344158,239887007,Systemic lupus erythematosus with organ/system involvement,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4149913,309762007,Systemic lupus erythematosus with pericarditis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),607145,1149219001,Systemic rheumatoid vasculitis,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),134442,89155008,Systemic sclerosis,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4027727,128460000,"Systemic sclerosis, diffuse",Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),40483692,443872005,Systemic sclerosis due to chemical,Condition,SNOMED,S,2010-01-30,2099-12-30
+3,autoimmune (minus graves),4063582,201443009,Systemic sclerosis induced by drugs and chemicals,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4027230,128461001,Systemic sclerosis sine scleroderma,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4185187,298285004,Systemic sclerosis with limited cutaneous involvement,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4077943,276177000,Thyroid eye disease,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),606142,1142207008,Transient neonatal epidermolysis bullosa acquisita,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),4045730,230683002,Transient neonatal myasthenia,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4311391,86219005,Uveitis-rheumatoid arthritis syndrome,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),608022,1156746003,Vaccine-induced prothrombotic immune thrombocytopenia,Condition,SNOMED,S,2021-07-30,2099-12-30
+3,autoimmune (minus graves),4300797,403212009,Vesicobullous form erythema multiforme,Condition,SNOMED,S,2003-07-30,2099-12-30
+3,autoimmune (minus graves),4108968,193497004,Vogt-Koyanagi-Harada disease,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),4219853,3978000,Warm autoimmune hemolytic anemia,Condition,SNOMED,S,2002-01-30,2099-12-30
+3,autoimmune (minus graves),37110165,724276006,"X-linked immune dysregulation, polyendocrinopathy, enteropathy syndrome",Condition,SNOMED,S,2017-07-30,2099-12-30

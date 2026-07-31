@@ -1,0 +1,9 @@
+concept_set_id,name,concept_id,concept_code,concept_name,domain,vocabulary,standard_concept,valid_start_date,valid_end_date
+31,mx_trab,4181904,54495009,Antibody to TSH receptor measurement,Measurement,SNOMED,S,2002-01-30,2099-12-30
+31,mx_trab,44812165,911341000000100,Serum thyroid stimulating antibody concentration measurement,Measurement,SNOMED,S,2014-03-31,2099-12-30
+31,mx_trab,4188577,415719008,Thyroid inhibitor antibody level,Measurement,SNOMED,S,2005-01-30,2099-12-30
+31,mx_trab,4192910,395037008,Thyroid stimulating antibody level,Measurement,SNOMED,S,2003-01-30,2099-12-30
+31,mx_trab,44807677,797661000000107,Thyroid stimulating IgG antibody level,Measurement,SNOMED,S,2011-10-02,2099-12-30
+31,mx_trab,3038369,40673-6,Thyrotropin binding inhibitory immunoglobulins [Units/volume] in Serum,Measurement,LOINC,S,2005-04-10,2099-12-30
+31,mx_trab,3017044,5385-0,Thyrotropin receptor Ab [Units/volume] in Serum,Measurement,LOINC,S,1969-12-31,2099-12-30
+31,mx_trab,4235117,408273009,TSH binding site inhibitor globulin level,Measurement,SNOMED,S,2005-01-30,2099-12-30

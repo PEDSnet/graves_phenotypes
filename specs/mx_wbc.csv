@@ -1,0 +1,22 @@
+concept_set_id,name,concept_id,concept_code,concept_name,domain,vocabulary,standard_concept,valid_start_date,valid_end_date
+10,wbc,4153003,271040006,Blast cell percent differential count,Measurement,SNOMED,S,2002-01-30,2099-12-30
+10,wbc,4121153,302560003,Determination of percentage differential white blood cells,Measurement,SNOMED,S,2002-01-30,2099-12-30
+10,wbc,4013251,165511009,Differential white blood cell count procedure,Measurement,SNOMED,S,2002-01-30,2099-12-30
+10,wbc,37043992,LP392599-9,Leukocytes | Blood | Hematology and Cell counts,Measurement,LOINC,C,1969-12-31,2099-12-30
+10,wbc,3001657,12227-5,Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood,Measurement,LOINC,S,1969-12-31,2099-12-30
+10,wbc,3046900,33256-9,Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood by Automated count,Measurement,LOINC,S,1969-12-31,2099-12-30
+10,wbc,3010813,26464-8,Leukocytes [#/volume] in Blood,Measurement,LOINC,S,1969-12-31,2099-12-30
+10,wbc,3000905,6690-2,Leukocytes [#/volume] in Blood by Automated count,Measurement,LOINC,S,1969-12-31,2099-12-30
+10,wbc,3032393,49498-9,Leukocytes [#/volume] in Blood by Estimate,Measurement,LOINC,S,2007-06-19,2099-12-30
+10,wbc,3003282,804-5,Leukocytes [#/volume] in Blood by Manual count,Measurement,LOINC,S,1969-12-31,2099-12-30
+10,wbc,3022174,26466-3,Leukocytes [#/volume] in Body fluid,Measurement,LOINC,S,1969-12-31,2099-12-30
+10,wbc,3026446,6743-9,Leukocytes [#/volume] in Body fluid by Manual count,Measurement,LOINC,S,1969-12-31,2099-12-30
+10,wbc,3006696,20584-9,Leukocytes [#/volume] in Specimen by Automated count,Measurement,LOINC,S,1999-03-16,2099-12-30
+10,wbc,4153002,271039009,Metamyelocyte percent differential count,Measurement,SNOMED,S,2002-01-30,2099-12-30
+10,wbc,4195185,313696009,Myelocyte percent differential count,Measurement,SNOMED,S,2002-01-30,2099-12-30
+10,wbc,4193711,313478005,Promyelocyte percent differential count,Measurement,SNOMED,S,2002-01-30,2099-12-30
+10,wbc,4156654,271041005,Smear cell percent differential count,Measurement,SNOMED,S,2002-01-30,2099-12-30
+10,wbc,4298431,767002,White blood cell count,Measurement,SNOMED,S,2002-01-30,2099-12-30
+10,wbc,37208925,1110441000000100,White blood cell count in blood,Measurement,SNOMED,S,2019-05-31,2099-12-30
+10,wbc,4174071,42396003,White blood cell estimate,Measurement,SNOMED,S,2002-01-30,2099-12-30
+10,wbc,4097906,252305002,White blood cell test,Measurement,SNOMED,S,2002-01-30,2099-12-30

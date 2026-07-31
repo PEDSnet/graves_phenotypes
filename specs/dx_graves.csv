@@ -1,0 +1,11 @@
+concept_set_id,name,concept_id,concept_code,concept_name,domain,vocabulary,standard_concept,valid_start_date,valid_end_date
+1,Graves,4232076,353295004,Graves' disease,Condition,SNOMED,S,2002-01-30,2099-12-30
+1,Graves,37108817,137421000119106,Graves' disease in remission,Condition,SNOMED,S,2017-07-30,2099-12-30
+1,Graves,4095104,26151008,Graves' disease with acropachy AND with thyrotoxic crisis,Condition,SNOMED,S,2002-01-30,2099-12-30
+1,Graves,4165874,479003,Graves' disease with pretibial myxedema AND with thyrotoxic crisis,Condition,SNOMED,S,2002-01-30,2099-12-30
+1,Graves,4030350,237824009,Juvenile Graves' disease,Condition,SNOMED,S,2002-01-30,2099-12-30
+1,Graves,4243042,59957008,Neonatal Graves' disease,Condition,SNOMED,S,2002-01-30,2099-12-30
+1,Graves,4034811,237499004,Thyrotoxicosis due to Graves' disease,Condition,SNOMED,S,2002-01-30,2099-12-30
+1,Graves,4049335,15470004,Toxic diffuse goiter with acropachy,Condition,SNOMED,S,2002-01-30,2099-12-30
+1,Graves,4243976,60268006,Toxic diffuse goiter with pretibial myxedema,Condition,SNOMED,S,2002-01-30,2099-12-30
+1,Graves,134618,60216004,Toxic diffuse goiter with thyrotoxic crisis,Condition,SNOMED,S,2002-01-30,2099-12-30

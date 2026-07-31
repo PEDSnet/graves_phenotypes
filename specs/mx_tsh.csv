@@ -1,0 +1,26 @@
+concept_set_id,name,concept_id,concept_code,concept_name,domain,vocabulary,standard_concept,valid_start_date,valid_end_date
+16,mx_tsh,4269031,401102003,Blood spot TSH level,Measurement,SNOMED,S,2003-07-30,2099-12-30
+16,mx_tsh,4193708,313441007,Plasma TSH measurement,Measurement,SNOMED,S,2002-01-30,2099-12-30
+16,mx_tsh,4197602,313440008,Serum TSH measurement,Measurement,SNOMED,S,2002-01-30,2099-12-30
+16,mx_tsh,4246879,61167004,Thyroid stimulating hormone measurement,Measurement,SNOMED,S,2002-01-30,2099-12-30
+16,mx_tsh,4007345,121866009,Thyrotropin beta subunit measurement,Measurement,SNOMED,S,2002-01-30,2099-12-30
+16,mx_tsh,3011450,20452-9,Thyrotropin [Presence] in Blood,Measurement,LOINC,S,1969-12-31,2099-12-30
+16,mx_tsh,3037152,29574-1,Thyrotropin [Presence] in DBS,Measurement,LOINC,S,1969-12-31,2099-12-30
+16,mx_tsh,4020691,104971007,"Thyrotropin releasing hormone (TRH) stimulation panel, for hyperprolactinemia",Measurement,SNOMED,S,2002-01-30,2099-12-30
+16,mx_tsh,4020690,104968004,Thyrotropin releasing hormone (TRH) stimulation test,Measurement,SNOMED,S,2002-01-30,2099-12-30
+16,mx_tsh,3023399,3015-5,Thyrotropin [Units/volume] in Blood,Measurement,LOINC,S,1969-12-31,2099-12-30
+16,mx_tsh,42870560,69561-9,Thyrotropin [Units/volume] in Cord blood,Measurement,LOINC,S,2011-11-28,2099-12-30
+16,mx_tsh,3037142,29575-8,Thyrotropin [Units/volume] in DBS,Measurement,LOINC,S,1969-12-31,2099-12-30
+16,mx_tsh,3005832,26998-5,Thyrotropin [Units/volume] in Saliva (oral fluid),Measurement,LOINC,S,1969-12-31,2099-12-30
+16,mx_tsh,3009201,3016-3,Thyrotropin [Units/volume] in Serum or Plasma,Measurement,LOINC,S,1969-12-31,2099-12-30
+16,mx_tsh,3029985,50533-9,Thyrotropin [Units/volume] in Serum or Plasma --1st specimen,Measurement,LOINC,S,2007-09-30,2099-12-30
+16,mx_tsh,3030695,50534-7,Thyrotropin [Units/volume] in Serum or Plasma --2nd specimen,Measurement,LOINC,S,2007-09-30,2099-12-30
+16,mx_tsh,3029973,50535-4,Thyrotropin [Units/volume] in Serum or Plasma --3rd specimen,Measurement,LOINC,S,2007-09-30,2099-12-30
+16,mx_tsh,3030538,50536-2,Thyrotropin [Units/volume] in Serum or Plasma --4th specimen,Measurement,LOINC,S,2007-09-30,2099-12-30
+16,mx_tsh,3030198,50537-0,Thyrotropin [Units/volume] in Serum or Plasma --5th specimen,Measurement,LOINC,S,2007-09-30,2099-12-30
+16,mx_tsh,3030277,50538-8,Thyrotropin [Units/volume] in Serum or Plasma --6th specimen,Measurement,LOINC,S,2007-09-30,2099-12-30
+16,mx_tsh,3030188,50539-6,Thyrotropin [Units/volume] in Serum or Plasma --7th specimen,Measurement,LOINC,S,2007-09-30,2099-12-30
+16,mx_tsh,3030018,50540-4,Thyrotropin [Units/volume] in Serum or Plasma --8th specimen,Measurement,LOINC,S,2007-09-30,2099-12-30
+16,mx_tsh,3027700,14999-7,Thyrotropin [Units/volume] in Serum or Plasma --baseline,Measurement,LOINC,S,1969-12-31,2099-12-30
+16,mx_tsh,3019170,11580-8,Thyrotropin [Units/volume] in Serum or Plasma by Detection limit <= 0.005 mIU/L,Measurement,LOINC,S,1969-12-31,2099-12-30
+16,mx_tsh,3019762,11579-0,Thyrotropin [Units/volume] in Serum or Plasma by Detection limit <= 0.05 mIU/L,Measurement,LOINC,S,1969-12-31,2099-12-30

@@ -1,0 +1,61 @@
+concept_set_id,name,concept_id,concept_code,concept_name,domain,vocabulary,standard_concept,valid_start_date,valid_end_date
+22,vitamin d,40765039,62291-0,"1,25-Dihydroxyvitamin D2 [Mass/volume] in Serum or Plasma",Measurement,LOINC,S,2010-11-21,2099-12-30
+22,vitamin d,37037105,LP385182-3,"1,25-Dihydroxyvitamin D2 | Serum or Plasma | Chemistry - non-challenge",Measurement,LOINC,C,1969-12-31,2099-12-30
+22,vitamin d,44806045,790251000000108,"1,25-dihydroxyvitamin D3 measurement",Measurement,SNOMED,S,2011-10-02,2099-12-30
+22,vitamin d,40765038,62290-2,"1,25-Dihydroxyvitamin D [Mass/volume] in Serum or Plasma",Measurement,LOINC,S,2010-11-21,2099-12-30
+22,vitamin d,37078214,LP385181-5,"1,25-Dihydroxyvitamin D | Serum or Plasma | Chemistry - non-challenge",Measurement,LOINC,C,1969-12-31,2099-12-30
+22,vitamin d,36031776,95593-0,25-hydroxyvitamin D2 [Mass/volume] in Capillary blood,Measurement,LOINC,S,2020-12-14,2099-12-30
+22,vitamin d,3049536,49054-0,25-hydroxyvitamin D2 [Mass/volume] in Serum or Plasma,Measurement,LOINC,S,2007-04-30,2099-12-30
+22,vitamin d,3051659,46269-7,25-hydroxyvitamin D2 [Moles/volume] in Serum or Plasma,Measurement,LOINC,S,1969-12-31,2099-12-30
+22,vitamin d,36660091,94673-1,"25-Hydroxyvitamin D3+25-Hydroxyvitamin D2/24,25-dihydroxyvitamin D3+24,25-dihydroxyvitamin D2 [Mass Ratio] in Serum or Plasma",Measurement,LOINC,S,2020-06-16,2099-12-30
+22,vitamin d,40765040,62292-8,25-Hydroxyvitamin D3+25-Hydroxyvitamin D2 [Mass/volume] in Serum or Plasma,Measurement,LOINC,S,2010-11-21,2099-12-30
+22,vitamin d,42529187,83070-3,25-Hydroxyvitamin D3+25-Hydroxyvitamin D2 [Mass/volume] in Serum or Plasma by Immunoassay,Measurement,LOINC,S,2017-02-20,2099-12-30
+22,vitamin d,40771025,68438-1,25-Hydroxyvitamin D3+25-Hydroxyvitamin D2 [Moles/volume] in Serum or Plasma,Measurement,LOINC,S,2011-09-18,2099-12-30
+22,vitamin d,42529188,83071-1,25-Hydroxyvitamin D3+25-Hydroxyvitamin D2 [Moles/volume] in Serum or Plasma by Immunoassay,Measurement,LOINC,S,2017-02-20,2099-12-30
+22,vitamin d,37036354,LP385185-6,25-Hydroxyvitamin D3+25-Hydroxyvitamin D2 | Serum or Plasma | Chemistry - non-challenge,Measurement,LOINC,C,1969-12-31,2099-12-30
+22,vitamin d,3020149,1989-3,25-hydroxyvitamin D3 [Mass/volume] in Serum or Plasma,Measurement,LOINC,S,1969-12-31,2099-12-30
+22,vitamin d,44789024,193881000000100,25-Hydroxy vitamin D3 measurement,Measurement,SNOMED,S,2006-03-31,2099-12-30
+22,vitamin d,3024390,14635-7,25-hydroxyvitamin D3 [Moles/volume] in Serum or Plasma,Measurement,LOINC,S,1969-12-31,2099-12-30
+22,vitamin d,37072895,LP385191-4,25-hydroxyvitamin D3 | Serum or Plasma | Chemistry - non-challenge,Measurement,LOINC,C,1969-12-31,2099-12-30
+22,vitamin d,3031700,43134-6,Calcidiol and Calciferol and Calcitriol panel [Mass/volume] - Serum or Plasma,Measurement,LOINC,S,2005-11-14,2099-12-30
+22,vitamin d,37038549,LP386839-7,Calcidiol and Calciferol and Calcitriol panel | Serum or Plasma | Chemistry Panels,Measurement,LOINC,C,1969-12-31,2099-12-30
+22,vitamin d,3006615,2236-8,Calciferol (Vit D2) [Mass/volume] in Serum or Plasma,Measurement,LOINC,S,1969-12-31,2099-12-30
+22,vitamin d,3014173,1649-3,Calcitriol [Mass/volume] in Serum or Plasma,Measurement,LOINC,S,1969-12-31,2099-12-30
+22,vitamin d,36305453,87671-4,Cholecalciferol (Vit D3) [Mass/mass] in Specimen,Measurement,LOINC,S,2018-06-14,2099-12-30
+22,vitamin d,3027361,1990-1,Cholecalciferol (Vit D3) [Mass/volume] in Serum or Plasma,Measurement,LOINC,S,1969-12-31,2099-12-30
+22,vitamin d,3046609,33958-0,Cholecalciferol (Vit D3) [Moles/volume] in Serum or Plasma,Measurement,LOINC,S,1969-12-31,2099-12-30
+22,vitamin d,4036667,131114008,Decreased vitamin D,Condition,SNOMED,S,2002-01-30,2099-12-30
+22,vitamin d,4300954,386070008,Deficiency of vitamin D2,Condition,SNOMED,S,2003-01-30,2099-12-30
+22,vitamin d,4300955,386072000,Deficiency of vitamin D3,Condition,SNOMED,S,2003-01-30,2099-12-30
+22,vitamin d,3031306,49543-2,Deprecated Calcidiol+Calciferol [Mass/volume] in Serum or Plasma,Measurement,LOINC,N,2015-06-14,2015-06-15
+22,vitamin d,4301709,386068004,Disorder of vitamin D,Condition,SNOMED,S,2003-01-30,2099-12-30
+22,vitamin d,4296109,386069007,Disorder of vitamin D2,Condition,SNOMED,S,2003-01-30,2099-12-30
+22,vitamin d,4296110,386071007,Disorder of vitamin D3,Condition,SNOMED,S,2003-01-30,2099-12-30
+22,vitamin d,4018307,104656006,Ergocalciferol measurement,Measurement,SNOMED,S,2002-01-30,2099-12-30
+22,vitamin d,3012873,15411-2,Ergosterol [Mass/volume] in Serum or Plasma,Measurement,LOINC,S,1969-12-31,2099-12-30
+22,vitamin d,4005380,121778002,Ergosterol measurement,Measurement,SNOMED,S,2002-01-30,2099-12-30
+22,vitamin d,3012227,2439-8,Hydroxycalcidiol [Mass/volume] in Serum,Measurement,LOINC,S,1969-12-31,2099-12-30
+22,vitamin d,4017772,104737006,Hydroxycalcidiol measurement,Measurement,SNOMED,S,2002-01-30,2099-12-30
+22,vitamin d,40486051,447678008,Measurement of 25-hydroxyergocalciferol,Measurement,SNOMED,S,2011-07-30,2099-12-30
+22,vitamin d,40486053,447680002,Measurement of 25-hydroxyergocalciferol in serum specimen,Measurement,SNOMED,S,2011-07-30,2099-12-30
+22,vitamin d,40486052,447679000,Measurement of combined total ergocalciferol and colecalciferol,Measurement,SNOMED,S,2011-07-30,2099-12-30
+22,vitamin d,4198870,313755003,"Plasma 1,25-Dihydroxyvitamin D3 measurement",Measurement,SNOMED,S,2002-01-30,2099-12-30
+22,vitamin d,4198871,313756002,Plasma 25-Hydroxyvitamin D3 measurement,Measurement,SNOMED,S,2002-01-30,2099-12-30
+22,vitamin d,4060617,169203007,Radiobioassay - vitamin D,Measurement,SNOMED,S,2002-01-30,2099-12-30
+22,vitamin d,4209237,313521004,"Serum 1,25-dihydroxy vitamin D3 measurement",Measurement,SNOMED,S,2002-01-30,2099-12-30
+22,vitamin d,4198872,313757006,Serum 25-Hydroxy vitamin D3 measurement,Measurement,SNOMED,S,2002-01-30,2099-12-30
+22,vitamin d,45770662,933121000000103,Serum total 25-hydroxyvitamin D measurement,Measurement,SNOMED,S,2014-09-30,2099-12-30
+22,vitamin d,4133668,412925008,Serum vitamin D2 measurement,Measurement,SNOMED,S,2004-07-30,2099-12-30
+22,vitamin d,4152982,270990000,Serum vitamin D measurement,Measurement,SNOMED,S,2002-01-30,2099-12-30
+22,vitamin d,44806841,793871000000106,"Total vitamin D, 25-hydroxy measurement",Measurement,SNOMED,S,2011-10-02,2099-12-30
+22,vitamin d,4219068,82457009,"Vitamin D, 1,25-dihydroxy measurement",Measurement,SNOMED,S,2002-01-30,2099-12-30
+22,vitamin d,2212238,82306,"Vitamin D; 25 hydroxy, includes fraction(s), if performed",Measurement,CPT4,N,1969-12-31,2099-12-30
+22,vitamin d,4007831,12199005,"Vitamin D, 25-hydroxy measurement",Measurement,SNOMED,S,2002-01-30,2099-12-30
+22,vitamin d,44789310,195301000000102,Vitamin D2 measurement,Measurement,SNOMED,S,2006-03-31,2099-12-30
+22,vitamin d,4020710,105029001,Vitamin D3 measurement,Measurement,SNOMED,S,2002-01-30,2099-12-30
+22,vitamin d,436070,34713006,Vitamin D deficiency,Condition,SNOMED,S,2002-01-30,2099-12-30
+22,vitamin d,606951,1148896009,Vitamin D deficiency due to chronic kidney disease,Condition,SNOMED,S,2021-07-30,2099-12-30
+22,vitamin d,44813944,867331000000107,Vitamin D insufficiency,Condition,SNOMED,S,2013-03-31,2099-12-30
+22,vitamin d,4308739,83729008,Vitamin D measurement,Measurement,SNOMED,S,2002-01-30,2099-12-30
+22,vitamin d,3037334,35365-6,Vitamin D+Metabolites [Mass/volume] in Serum or Plasma,Measurement,LOINC,S,2004-02-16,2099-12-30
+22,vitamin d,37042270,LP385198-9,Vitamin D+Metabolites | Serum or Plasma | Chemistry - non-challenge,Measurement,LOINC,C,1969-12-31,2099-12-30

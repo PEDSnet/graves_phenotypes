@@ -1,0 +1,7 @@
+concept_set_id,name,concept_id,concept_code,concept_name,domain,vocabulary,standard_concept,valid_start_date,valid_end_date
+18,mx_tsi,2212594,84445,Thyroid stimulating immune globulins (TSI),Measurement,CPT4,N,1969-12-31,2099-12-30
+18,mx_tsi,3036567,30166-3,Thyroid stimulating immunoglobulins actual/normal in Serum,Measurement,LOINC,S,1969-12-31,2099-12-30
+18,mx_tsi,4020112,104972000,Thyroid stimulating immunoglobulins measurement,Measurement,SNOMED,S,2002-01-30,2099-12-30
+18,mx_tsi,3025419,17708-9,Thyroid stimulating immunoglobulins [Presence] in Serum,Measurement,LOINC,S,1998-06-03,2099-12-30
+18,mx_tsi,37034510,LP381505-9,Thyroid stimulating immunoglobulins | Serum | Chemistry - non-challenge,Measurement,LOINC,C,1969-12-31,2099-12-30
+18,mx_tsi,3007498,30567-2,Thyroid stimulating immunoglobulins [Units/volume] in Serum,Measurement,LOINC,S,2001-10-15,2099-12-30

@@ -1,0 +1,18 @@
+concept_set_id,name,concept_id,concept_code,concept_name,domain,vocabulary,standard_concept,valid_start_date,valid_end_date
+17,mx_free_t4,4035412,117350006,Equilibrium dialysis radioimmunoassay method for free thyroxine measurement,Measurement,SNOMED,S,2002-01-30,2099-12-30
+17,mx_free_t4,37208825,1109391000000105,Free T4 (thyroxine) mass concentration in plasma,Measurement,SNOMED,S,2019-05-31,2099-12-30
+17,mx_free_t4,37208826,1109401000000108,Free T4 (thyroxine) mass concentration in serum,Measurement,SNOMED,S,2019-05-31,2099-12-30
+17,mx_free_t4,37394359,1030801000000101,Free thyroxine level,Measurement,SNOMED,S,2016-03-31,2099-12-30
+17,mx_free_t4,37399333,1022841000000104,Plasma free T4 level,Measurement,SNOMED,S,2016-03-31,2099-12-30
+17,mx_free_t4,4195336,313838005,Plasma free T4 measurement,Measurement,SNOMED,S,2002-01-30,2099-12-30
+17,mx_free_t4,37398618,1016971000000106,Serum free T4 level,Measurement,SNOMED,S,2016-03-31,2099-12-30
+17,mx_free_t4,4198884,313837000,Serum free T4 measurement,Measurement,SNOMED,S,2002-01-30,2099-12-30
+17,mx_free_t4,4196969,5113004,T4 free measurement,Measurement,SNOMED,S,2002-01-30,2099-12-30
+17,mx_free_t4,40655518,LG49672-5,Thyroxine.free|Moment in time|Serum or Plasma,Measurement,LOINC,C,2018-06-14,2099-12-30
+17,mx_free_t4,37029725,LP381519-0,Thyroxine free | Serum or Plasma | Chemistry - non-challenge,Measurement,LOINC,C,1969-12-31,2099-12-30
+17,mx_free_t4,3008598,3024-7,Thyroxine (T4) free [Mass/volume] in Serum or Plasma,Measurement,LOINC,S,1969-12-31,2099-12-30
+17,mx_free_t4,3024675,6892-4,Thyroxine (T4) free [Mass/volume] in Serum or Plasma by Dialysis,Measurement,LOINC,S,1969-12-31,2099-12-30
+17,mx_free_t4,42529233,83122-2,Thyroxine (T4) free [Mass/volume] in Serum or Plasma by Immunoassay,Measurement,LOINC,S,2017-02-20,2099-12-30
+17,mx_free_t4,3008486,14920-3,Thyroxine (T4) free [Moles/volume] in Serum or Plasma,Measurement,LOINC,S,1969-12-31,2099-12-30
+17,mx_free_t4,42868691,70217-5,Thyroxine (T4) free [Moles/volume] in Serum or Plasma by Dialysis,Measurement,LOINC,S,2012-02-21,2099-12-30
+17,mx_free_t4,42529232,83121-4,Thyroxine (T4) free [Moles/volume] in Serum or Plasma by Immunoassay,Measurement,LOINC,S,2017-02-20,2099-12-30

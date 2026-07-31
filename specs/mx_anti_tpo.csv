@@ -1,0 +1,11 @@
+concept_set_id,name,concept_id,concept_code,concept_name,domain,vocabulary,standard_concept,valid_start_date,valid_end_date
+20,mx_anti_tpo,4304801,118002003,Measurement of thyroperoxidase antibody,Measurement,SNOMED,S,2002-01-30,2099-12-30
+20,mx_anti_tpo,44812164,911321000000107,Serum thyroid peroxidase antibody concentration measurement,Measurement,SNOMED,S,2014-03-31,2099-12-30
+20,mx_anti_tpo,44805325,785171000000102,Thyroid peroxidase IgG antibody measurement,Measurement,SNOMED,S,2011-10-02,2099-12-30
+20,mx_anti_tpo,40653832,LG359-6,"Thyroperoxidase Ab|Arbitrary Concentration|Moment in time|Blood, Serum or Plasma",Measurement,LOINC,C,2018-06-14,2099-12-30
+20,mx_anti_tpo,40653831,LG5591-5,"Thyroperoxidase Ab.IgG|Arbitrary Concentration|Moment in time|Blood, Serum or Plasma",Measurement,LOINC,C,2018-06-14,2099-12-30
+20,mx_anti_tpo,3027238,8099-4,Thyroperoxidase Ab [Units/volume] in Serum or Plasma,Measurement,LOINC,S,1969-12-31,2099-12-30
+20,mx_anti_tpo,40759598,56477-3,Thyroperoxidase Ab [Units/volume] in Serum or Plasma by Immunoassay,Measurement,LOINC,S,1969-12-31,2099-12-30
+20,mx_anti_tpo,3015352,5382-7,Thyroperoxidase Ab [Units/volume] in Serum or Plasma by Radioimmunoassay (RIA),Measurement,LOINC,S,1969-12-31,2099-12-30
+20,mx_anti_tpo,3035973,18332-7,Thyroperoxidase IgG Ab [Units/volume] in Serum or Plasma,Measurement,LOINC,S,1969-12-31,2099-12-30
+20,mx_anti_tpo,42529566,83118-0,Thyroperoxidase IgG Ab [Units/volume] in Serum or Plasma by Immunoassay,Measurement,LOINC,S,2017-02-20,2099-12-30

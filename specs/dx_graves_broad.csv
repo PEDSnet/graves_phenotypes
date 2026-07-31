@@ -1,0 +1,67 @@
+concept_set_id,name,concept_id,concept_code,concept_name,domain,vocabulary,standard_concept,valid_start_date,valid_end_date
+0,dx_graves_broad,4130013,237505003,Apathetic thyrotoxicosis,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4129355,237503005,Borderline thyrotoxicosis,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4034822,237549001,Dysprealbuminemic euthyroidal hyperthyroxinemia,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,1340365,OMOP5166020,Exacerbation of hyperthyroidism,Condition,OMOP Extension,S,2022-05-05,2099-12-30
+0,dx_graves_broad,1340480,OMOP5166135,Exacerbation of thyrotoxicosis,Condition,OMOP Extension,S,2022-05-05,2099-12-30
+0,dx_graves_broad,4030051,237547004,Familial dysalbuminemic hyperthyroxinemia,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,36716767,722942005,Familial hyperthyroidism,Condition,SNOMED,S,2017-01-30,2099-12-30
+0,dx_graves_broad,37396803,716743006,Familial non-autoimmune autosomal dominant hyperthyroidism,Condition,SNOMED,S,2016-07-30,2099-12-30
+0,dx_graves_broad,4232076,353295004,Graves' disease,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,37108817,137421000119106,Graves' disease in remission,Condition,SNOMED,S,2017-07-30,2099-12-30
+0,dx_graves_broad,4095104,26151008,Graves' disease with acropachy AND with thyrotoxic crisis,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4165874,479003,Graves' disease with pretibial myxedema AND with thyrotoxic crisis,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4130012,237500008,Hashitoxicosis - transient,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4130015,237507006,HCG-induced thyrotoxicosis,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4142479,34486009,Hyperthyroidism,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4337834,87232008,Hyperthyroidism due to ectopic thyroid nodule,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,138718,190255006,Hyperthyroidism due to ectopic thyroid tissue,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4227238,40607004,Hyperthyroidism due to hydatidiform mole with thyrotoxic crisis,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4259138,44744000,Hyperthyroidism due to molar thyrotropin,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4094160,25008002,Hyperthyroidism due to struma ovarii,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,45757130,10754921000119106,Hyperthyroidism in childbirth,Condition,SNOMED,S,2014-07-30,2099-12-30
+0,dx_graves_broad,4265061,62052002,Hyperthyroidism secondary to amiodarone,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4241482,5834008,Hyperthyroidism secondary to potassium iodide,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4194323,67723002,Hyperthyroidism secondary to radio contrast dye,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4100629,27538003,Hyperthyroidism with Hashimoto disease,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4129356,237508001,Iatrogenic thyrotoxicosis,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,761894,1740001000004102,Iatrogenic thyrotoxicosis factitia,Condition,SNOMED,S,2015-08-31,2099-12-30
+0,dx_graves_broad,4129357,237510004,Iodine-induced hyperthyroidism,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4030350,237824009,Juvenile Graves' disease,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4243042,59957008,Neonatal Graves' disease,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,137099,13795004,Neonatal thyrotoxicosis,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4210297,5604000,Neonatal transient hyperthyroidism,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,36716766,722941003,Secondary hyperthyroidism,Condition,SNOMED,S,2017-01-30,2099-12-30
+0,dx_graves_broad,4176932,427970008,Subclinical hyperthyroidism,Condition,SNOMED,S,2008-01-30,2099-12-30
+0,dx_graves_broad,4329571,22350004,T-3 thyrotoxicosis,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,133436,29028009,Thyrotoxic crisis,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,138387,90739004,Thyrotoxicosis,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4034812,237501007,Thyrotoxicosis due to acute thyroiditis,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4034811,237499004,Thyrotoxicosis due to Graves' disease,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4231179,360361000,Thyrotoxicosis due to inappropriate TSH secretion,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4231177,360358001,Thyrotoxicosis due to overproduction of thyroid stimulating hormone,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4236235,360353005,Thyrotoxicosis due to pituitary thyroid hormone resistance,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4129358,237512007,Thyrotoxicosis due to TSHoma,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4177975,4997005,Thyrotoxicosis factitia,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,762444,368361000119108,Thyrotoxicosis factitia without thyrotoxic crisis,Condition,SNOMED,S,2017-02-28,2099-12-30
+0,dx_graves_broad,4229431,88740003,Thyrotoxicosis factitia with thyrotoxic crisis,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,137519,190256007,Thyrotoxicosis from ectopic thyroid nodule with crisis,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4130014,237506002,Thyrotoxicosis in pregnancy,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4130016,237509009,Thyrotoxicosis on thyroxine therapy,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4113641,286909009,Thyrotoxicosis with or without goiter,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,133727,89719007,Thyrotoxicosis without goiter or other cause,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,138717,267374005,Toxic diffuse goiter,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4049335,15470004,Toxic diffuse goiter with acropachy,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4099198,190242005,Toxic diffuse goiter with crisis,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4099197,190241003,Toxic diffuse goiter with no crisis,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4243976,60268006,Toxic diffuse goiter with pretibial myxedema,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,134618,60216004,Toxic diffuse goiter with thyrotoxic crisis,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4030042,237498007,Toxic goiter,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,135778,26389007,Toxic multinodular goiter,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4095903,190247004,Toxic multinodular goiter with no crisis,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,134608,62278002,Toxic multinodular goiter with thyrotoxic crisis,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,134619,57777000,Toxic nodular goiter,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,139774,30985009,Toxic nodular goiter with thyrotoxic storm,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,140976,73869005,Toxic uninodular goiter,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,4095902,190244006,Toxic uninodular goiter with no crisis,Condition,SNOMED,S,2002-01-30,2099-12-30
+0,dx_graves_broad,136932,69329005,Toxic uninodular goiter with thyrotoxic crisis,Condition,SNOMED,S,2002-01-30,2099-12-30

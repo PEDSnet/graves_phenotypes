@@ -1,0 +1,597 @@
+---
+title: "Feasibility Summary"
+output:
+  html_document:
+    df_print: paged
+    toc: yes
+    toc_collapsed: yes
+    toc_float: yes
+---
+
+```{r setup, include=FALSE}
+# Default taken from R notebook behavior: when knitting, wd will always be location of notebook
+base_dir <- ".."
+Sys.setenv(PEDSNET_SKIP_REQUEST_EXECUTION = 1L)
+tryCatch(source("../site/run.R"),
+  error = function(e) message(e)
+) # May not be able to make db connection
+
+# Set to "local" to read data from ../results, or another value to read from db
+data_source <-
+  if_else(config("execution_mode") == "distribution",
+    "local",
+    "not_local"
+  )
+
+require(tidyr)
+require(knitr)
+require(kableExtra)
+require(stringr)
+require(tibble)
+require(ggplot2)
+require(DT)
+require(gt)
+require(table1)
+
+get_results <- function(tbl_name) {
+  if (data_source == "local") {
+    rslt <- read_csv(paste0("../results/", tbl_name, ".csv"))
+  } else {
+    rslt <- results_tbl(tbl_name) %>% collect()
+  }
+  rslt
+}
+
+prettify_kable <- function(data, title = "") {
+  rslt <-
+    data %>% kable(
+      digits = 4L,
+      caption = title,
+      format.args = list(big.mark = ",")
+    )
+  if (knitr::is_html_output()) {
+    rslt <- rslt %>%
+      kable_styling(bootstrap_options = c("striped", "hover")) %>%
+      column_spec(1L, bold = TRUE, border_right = TRUE)
+  }
+  rslt
+}
+
+cohort <- results_tbl("cohort_post_attrition")
+# Manually mask the site name
+cohort <- cohort %>%
+  left_join(
+    results_tbl("xwalk_site"),
+    by = "site") %>%
+  select(-site) %>%
+  mutate(site = as.character(seq_id)) %>%
+  select(-seq_id)
+cohort <- filter_no_treatment(cohort, treatment_window = 30L)
+measurements_fixed <- make_manual_fixes(results_tbl("measurement"))
+# Manually mask the site name
+measurements_fixed <- measurements_fixed %>%
+  left_join(
+    results_tbl("xwalk_site"),
+    by = "site") %>%
+  select(-site) %>%
+  mutate(site = as.character(seq_id)) %>%
+  select(-seq_id)
+
+redaction_str <- "[REDACTED]"
+low_count_threshold <- 10L
+round_to <- 5L
+```
+
+## Notices
+
+### Feasibility Query
+
+The data presented here are the results of a feasbility evaluation performed by
+the PEDSnet data and analytic coordinating center.  Because feasibility queries
+require efficient completion, they entail less consultation regarding study
+design, resource allocation, and data quality analysis than full study
+execution, feasibility results may incompletely predict observations made
+during the study.
+
+Counts less than `r low_count_threshold` have been redacted. If in a group the
+total redacted is less than `r low_count_threshold`, the next smallest number
+was also redacted to protect against subtracting from the total. Counts have
+also been rounded to the nearest `r round_to` to protect against small
+differences in similar analyses or re-runs.
+
+### Confidentiality
+
+Please treat the contents of this report as confidential, and do not
+redistrubute beyond PEDSnet staff and the requester.
+
+## Request Information
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+tribble(
+  ~Item, ~Value,
+  "Title", config("title"),
+  "Requester", config("requester_name"),
+  "Sponsoring Member", config("requester_site"),
+  "CDM Version", as.character(config("cdm_version")),
+  "Request Version", as.character(config("req_version"))
+) %>%
+  prettify_kable()
+```
+
+## Results
+
+The cohort comprises `r summarise(cohort, ct = n_distinct(person_id)) %>% pull(ct)`
+patients from `r summarise(cohort, ct = n_distinct(site)) %>% pull(ct)` sites.
+
+### Attrition
+
+```{r attrition, echo=FALSE, message=FALSE, warning=FALSE}
+# DBI doesn't have a good way to interrogate tables in a specified schema,
+# so you have to list the step logs you want to summarise (e.g. DCC + remote
+# sites).
+step_log <- list(config("qry_site")) %>%
+  map(.f = function(x) {
+    get_results(paste0(x, "_steps"))
+  }) %>%
+  reduce(.f = dplyr::union)
+
+step_log %>%
+  arrange(stamp) %>%
+  select(cohort, persons) %>%
+  redact_and_round(
+    columns = "persons",
+    threshold = low_count_threshold,
+    round_to = round_to
+  ) %>%
+  mutate(percent_prior = round(100L * persons /
+    coalesce(lag(persons), persons), 2L)) %>%
+  replace_na_subset(
+    columns = c("persons", "percent_prior"),
+    redaction_val = redaction_str
+  ) %>%
+  prettify_kable()
+```
+
+### Site stratification
+
+This stratification comprises the final included cohort.
+
+```{r site, echo=FALSE, message=FALSE, warning=FALSE}
+cohort %>%
+  group_by(site) %>%
+  summarize(persons = n_distinct(person_id)) %>%
+  collect() %>%
+  redact_and_round(
+    columns = "persons",
+    threshold = low_count_threshold,
+    round_to = round_to
+  ) %>%
+  mutate(
+    percent_total =
+      round(100L * persons / sum(persons, na.rm = TRUE), 2L)
+  ) %>%
+  replace_na_subset(
+    columns = c("persons", "percent_total"),
+    redaction_val = redaction_str
+  ) %>%
+  prettify_kable()
+```
+
+### Diagnoses over Time
+> NOTE! This does not adjust for a potentially changing number of registered
+patients in the cohort over time, or changing number of registered patient per
+PEDSnet site, it is a simple crude count
+
+```{r time, echo=FALSE, message=FALSE, warning=FALSE}
+over_time <- cohort %>%
+  mutate(
+    start_year = year(dx_hyperthyroid_date),
+    age_at_dx = (dx_hyperthyroid_date - birth_datetime)
+  ) %>%
+  select(person_id, start_year, age_at_dx, site) %>%
+  collect() %>%
+  # Ensure x-axis has full years not e.g. 2015.5
+  mutate(start_year = as.Date(as.character(start_year), format = "%Y"))
+
+overall <- over_time %>%
+  count(start_year) %>%
+  mutate(site = "Overall")
+
+by_site <- over_time %>%
+  count(start_year, site)
+
+bind_rows(overall, by_site) %>%
+  redact_and_round(
+    columns = "n",
+    groupers = "site",
+    threshold = low_count_threshold,
+    round_to = round_to
+  ) %>%
+  ggplot(aes(x = start_year, y = n, color = site)) +
+  geom_line() +
+  ggtitle("Raw count of new Graves Diagnoses") +
+  xlab("Year") +
+  ylab("Count of persons")
+```
+
+### Age at diagnosis
+```{r age, echo=FALSE, message=FALSE, warning=FALSE}
+over_time %>%
+  mutate(age_in_years = floor(as.integer(str_split_i(
+    age_at_dx,
+    pattern = " ", i = 1L
+  )) / 365.25)) %>%
+  count(age_in_years) %>%
+  redact_and_round(
+    columns = "n",
+    groupers = "age_in_years",
+    threshold = low_count_threshold,
+    round_to = round_to
+  ) %>%
+  ggplot(aes(x = age_in_years, y = n)) +
+  geom_bar(stat = "identity") +
+  ggtitle("Age at new Graves Diagnosis") +
+  xlab("Age in Years") +
+  ylab("Count of persons")
+```
+
+### Demographics
+
+This stratification comprises the final included cohort. Demographic
+categories from the typical PHS398 set not listed here reflect zero
+cohort members in that category.
+
+```{r demog, echo=FALSE, message=FALSE, warning=FALSE}
+c_names <- vocabulary_tbl("concept") %>%
+  filter(domain_id %in% c("Gender", "Race", "Ethnicity")) %>%
+  select(concept_id, concept_name) %>%
+  collect()
+
+demog <- cdm_tbl("person") %>%
+  semi_join(distinct(cohort, person_id),
+    by = "person_id", copy = TRUE
+  ) %>%
+  collect() %>%
+  inner_join(select(c_names, concept_id, sex = concept_name),
+    by = c("gender_concept_id" = "concept_id")
+  ) %>%
+  inner_join(select(c_names, concept_id, race = concept_name),
+    by = c("race_concept_id" = "concept_id")
+  ) %>%
+  inner_join(select(c_names, concept_id, hispanic = concept_name),
+    by = c("ethnicity_concept_id" = "concept_id")
+  ) %>%
+  select(person_id, sex, race, hispanic)
+
+h_cts <- demog %>%
+  group_by(sex, hispanic) %>%
+  summarise(persons = n()) %>%
+  redact_and_round(
+    columns = "persons",
+    groupers = c("sex", "hispanic"),
+    threshold = low_count_threshold,
+    round_to = round_to,
+    redaction_val = redaction_str
+  ) %>%
+  pivot_wider(names_from = sex, values_from = persons) %>%
+  rename(group = hispanic)
+r_cts <- demog %>%
+  group_by(sex, race) %>%
+  summarise(persons = n()) %>%
+  redact_and_round(
+    columns = "persons",
+    groupers = c("sex", "race"),
+    threshold = low_count_threshold,
+    round_to = round_to
+  ) %>%
+  pivot_wider(names_from = sex, values_from = persons) %>%
+  rename(group = race)
+
+prettify_kable(r_cts)
+prettify_kable(h_cts)
+```
+
+### Payer
+
+Primary payer plan class. If there is more than one class, it is categorized as
+"multiple". We use the payer information recorded closest to the presenting
+visit, as we had high missingness looking just at the presenting visit.
+```{r payer, echo=FALSE, message=FALSE, warning=FALSE}
+# Calculate the time between the visit with the payer info and the presenting
+# visit
+all_visits <- (cohort %>%
+  select(person_id, dx_hyperthyroid_date, site)) %>%
+  inner_join((
+    results_tbl("visit_occurrence") %>%
+      select(person_id, visit_occurrence_id, visit_start_date)
+  ), by = "person_id") %>%
+  mutate(time_to_payer = visit_start_date - dx_hyperthyroid_date)
+
+payer_count <- all_visits %>%
+  inner_join(results_tbl("visit_payer"), by = "visit_occurrence_id") %>%
+  group_by(person_id) %>%
+  slice_min(order_by = tibble(abs(time_to_payer)), with_ties = TRUE) %>%
+  ungroup() %>%
+  group_by(person_id) %>%
+  summarize(
+    plan_count = n_distinct(plan_class),
+    plan = min(plan_class),
+    time_to_payer = min(time_to_payer)
+  )
+
+payer_class <- cohort %>%
+  left_join(payer_count, by = "person_id") %>%
+  mutate(category = if_else(plan_count > 1L, "Multiple", plan)) %>%
+  count(category) %>%
+  arrange(desc(n)) %>%
+  collect()
+
+assertthat::assert_that(
+  sum(payer_class[["n"]]) == (cohort %>% distinct_ct()),
+  msg = "Does not contain one row per person in cohort"
+)
+
+prettify_kable(
+  payer_class %>%
+    redact_and_round(
+      columns = "n",
+      threshold = low_count_threshold,
+      round_to = round_to,
+      redaction_val = redaction_str
+    )
+)
+
+time_to_payer <- payer_count %>%
+  summarize(
+    mean_time_to_payer = mean(time_to_payer),
+    sd_time_to_payer = sd(time_to_payer)
+  ) %>%
+  mutate_if(is.numeric, round, 1L) %>%
+  collect()
+```
+The mean (sd) of time between the presenting visit and a visit with insurance
+information is `r time_to_payer[["mean_time_to_payer"]]` (`r time_to_payer[["sd_time_to_payer"]]`).
+
+## Specification
+
+### Feasibility Notes
+
+#### Measurements at presentation
+What proportion of the final cohort had each measurement up to 7 days after
+the diagnosing encounter? ex -10 would count anyone with a code in that
+codeset between -10 and +7 days of the diagnosing encounter, and -20 would count
+anyone with a code in that codeset between -20 and +7 days of the diagnosing
+encounter. 
+```{r measurements, echo=FALSE, message=FALSE, warning=FALSE}
+results_df <- proportion_over_time(
+  c(
+    "mx_bmi",
+    "mx_diastolic",
+    "mx_systolic",
+    "mx_tsh",
+    "mx_heart_rate",
+    "mx_tsi",
+    "mx_trab",
+    "mx_free_t4",
+    "mx_total_t3",
+    "mx_anti_tpo",
+    "mx_anti_tg",
+    "mx_dx_vitamin_d",
+    "mx_covid"
+  ),
+  domain = "measurement"
+)
+plot_all_codesets(results_df)
+```
+
+Measurement records can have numeric values (e.g. 0.01) or concepts (e.g.
+Negative, Clear) associated with them. It is also possible that there is no
+value associated with a measurement, or the value failed to parse (in some cases
+<0.01). The following plot demonstrates the types of values available for each
+codeset of interest.
+```{r result_type, echo=FALSE, message=FALSE, warning=FALSE}
+plot_result_type_panel(results_df)
+```
+
+#### Missingness
+```{r diagnoses, echo=FALSE, message=FALSE, warning=FALSE}
+time_between_dx <- cohort %>%
+  mutate(diff = dx_graves_date - dx_hyperthyroid_date) %>%
+  summarize(mean = mean(diff, na.rm = TRUE), sd = sd(diff, na.rm = TRUE)) %>%
+  mutate_if(is.numeric, round, 1L) %>%
+  collect()
+
+treatment <- cohort %>%
+  filter(is.na(dx_graves_date)) %>%
+  count() %>%
+  collect() %>%
+  redact_and_round(columns = "n")
+```
+How much missingness is there in each codeset?
+We can look at the initial diagnosis, which can include a general diagnosis of
+hyperthyroidism, or we can look specifically at the first Graves diagnosis.
+
+The average (sd) time between the two diagnoses is
+`r time_between_dx[["mean"]]` (`r time_between_dx[["sd"]]`).
+
+Around `r treatment` people had a thyroidectomy on or before their Graves
+diagnosis, or were treated with anti-thyroid medication more than 30 days before
+their Graves diagnosis, so for those people we will only use the hyperthyroidism
+diagnosis.
+
+```{r missing, echo=FALSE, message=FALSE, warning=FALSE}
+missing_df <- describe_missing_by_site(
+  c(
+    "mx_bmi",
+    "mx_diastolic",
+    "mx_systolic",
+    "mx_heart_rate",
+    "mx_tsh",
+    "mx_tsi",
+    "mx_trab",
+    "mx_free_t4",
+    "mx_total_t3",
+    "mx_anti_tpo",
+    "mx_anti_tg",
+    "mx_dx_vitamin_d"
+  ),
+  cohort,
+  measurements_fixed,
+  min_days = -20L,
+  max_days = 7L,
+  redact = TRUE
+)
+
+missing_df %>%
+  prettify_kable(title = "Missingness by Site")
+```
+
+#### Standardizing units
+What units do different codesets have?
+
+```{r units, fig.width = 12, fig.height = 12, echo=FALSE, message=FALSE, warning=FALSE}
+measurements <-
+  c(
+    "mx_bmi",
+    "mx_diastolic",
+    "mx_systolic",
+    "mx_heart_rate",
+    "mx_tsh",
+    "mx_tsi",
+    "mx_trab",
+    "mx_free_t4",
+    "mx_total_t3",
+    "mx_anti_tpo",
+    "mx_anti_tg",
+    "mx_dx_vitamin_d"
+  )
+
+all_thresholds <- c()
+for (measurement in measurements) {
+  unit_data <-
+    get_numeric_unit_data(results_tbl(measurement), cohort, measurements_fixed)
+  plot(plot_unit_histogram(unit_data, redact = TRUE) +
+    ggtitle(paste0(measurement, " measurement values")))
+
+  operator_counts <- unit_data %>%
+    count(operator_concept_name, name = "operator_count") %>%
+    mutate(codeset = measurement, total = sum(operator_count))
+
+  thresholds <- unit_data %>%
+    filter(
+      !is.na(operator_concept_name),
+      !operator_concept_id %in% c(4172703L, 0L)
+    ) %>%
+    count(operator_concept_name, value_as_number, name = "threshold_count")
+
+  threshold_description <- operator_counts %>%
+    left_join(thresholds, by = "operator_concept_name")
+
+  all_thresholds <- append(all_thresholds, list(threshold_description))
+}
+
+bind_rows(all_thresholds) %>%
+  arrange(codeset, desc(operator_count), desc(threshold_count)) %>%
+  mutate(
+    percent =
+      paste0("(", round(100L * operator_count / total, 0L), "%)")
+  ) %>%
+  mutate(
+    threshold_percent =
+      paste0("(", round(100L * threshold_count / total, 0L), "%)")
+  ) %>%
+  select(
+    codeset,
+    operator_concept_name,
+    percent,
+    value_as_number,
+    threshold_percent
+  ) %>%
+  group_by(codeset) %>%
+  gt(row_group.sep = " ")
+```
+
+Takeaways:
+
+* No adjustments are needed to the units for bmi, diastolic, systolic, heart
+rate, anti-tpo, anti-tg
+* Some measurements have incorrect mappings of source values, but the values
+themselves do not need to be adjusted
+* TSI has two units ("percent baseline" and "International unit per liter") - do
+we want to report these two units separately? At one site representing about 8%
+of TSI measurements, there is no unit source value. Do we want to assume these
+are TSI index?
+* Some measurements have units that need to be mapped to the standard unit e.g.
+"TSI index" * 100 to convert to "percent baseline", and total T3
+"Nanogram per milliliter" * 100 to convert to "Nanogram per deciliter"
+* Free T4 is an example some labs reporting values >10 e.g. for the
+"No Information" unit concept, we see a cluster of values at 10. If some labs
+only allow values up to 10, and other labs allow values up to 50, it would
+impact the overall average value we see.
+* 46% of TSH values have a < operator, but all with values less than 0.03. It
+might skew the reported value, but we could set these values equal to their
+threshold. We could consider reporting the outcome variable to be
+"proportion abnormal" rather than reporting the continuous values
+
+#### Reference Ranges
+For anti-tpo and anti-tg, we discussed using the lab provided references
+```{r ref_ranges, echo=FALSE, message=FALSE, warning=FALSE}
+anti_tpo <-
+  find_closest_2_dates(results_tbl("mx_anti_tpo"),
+                       cohort,
+                       measurements_fixed,
+                       "measurement") %>%
+  filter(!is.na(measurement_id))
+
+anti_tpo_totals_site <- anti_tpo %>% count(site, name = "total")
+
+anti_tpo %>%
+  count(site, range_high) %>%
+  left_join(anti_tpo_totals_site, by = "site") %>%
+  redact_and_round(
+    columns = c("n", "total"),
+    groupers = c("site"),
+    threshold = low_count_threshold,
+    round_to = round_to
+  ) %>%
+  mutate(pct = round(100 * n / total, 0),
+         label = if_else(is.na(pct), "[REDACTED]", paste0(n, " (", pct, "%)"))
+         ) %>%
+  select(range_high, site, label) %>%
+  pivot_wider(names_from = "site",
+              values_from = "label",
+              values_fill = "0") %>%
+  arrange(range_high) %>%
+  gt()
+
+anti_tg <-
+  find_closest_2_dates(results_tbl("mx_anti_tg"),
+                       cohort,
+                       measurements_fixed,
+                       "measurement") %>%
+  filter(!is.na(measurement_id))
+
+anti_tg_totals_site <- anti_tg %>% count(site, name = "total")
+
+anti_tg %>%
+  count(site, range_high) %>%
+  left_join(anti_tg_totals_site, by = "site") %>%
+  redact_and_round(
+    columns = c("n", "total"),
+    groupers = c("site"),
+    threshold = low_count_threshold,
+    round_to = round_to
+  ) %>%
+  mutate(pct = round(100 * n / total, 0),
+         label = if_else(is.na(pct), "[REDACTED]", paste0(n, " (", pct, "%)"))
+         ) %>%
+  select(range_high, site, label) %>%
+  pivot_wider(names_from = "site",
+              values_from = "label",
+              values_fill = "0") %>%
+  arrange(range_high) %>%
+  gt() %>%
+  tab_header(title = "Anti-tg lab provided reference 'range_high'")
+```
+
+## End

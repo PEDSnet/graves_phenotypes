@@ -1,0 +1,10 @@
+concept_set_id,name,concept_id,concept_code,concept_name,domain,vocabulary,standard_concept,valid_start_date,valid_end_date
+19,mx_total_t3,40653867,LG11953-3,"Triiodothyronine|Mass Concentration|Moment in time|Blood, Serum or Plasma",Measurement,LOINC,C,2018-06-14,2099-12-30
+19,mx_total_t3,4232468,89793009,"Tri-iodothyronine measurement, total",Measurement,SNOMED,S,2002-01-30,2099-12-30
+19,mx_total_t3,40655558,LG49720-2,Triiodothyronine|Moment in time|Serum or Plasma|650.977 g/mole,Measurement,LOINC,C,2018-06-14,2099-12-30
+19,mx_total_t3,37053471,LP381527-3,Triiodothyronine | Serum or Plasma | Chemistry - non-challenge,Measurement,LOINC,C,1969-12-31,2099-12-30
+19,mx_total_t3,3010340,3053-6,Triiodothyronine (T3) [Mass/volume] in Serum or Plasma,Measurement,LOINC,S,1969-12-31,2099-12-30
+19,mx_total_t3,42529253,83124-8,Triiodothyronine (T3) [Mass/volume] in Serum or Plasma by Immunoassay,Measurement,LOINC,S,2017-02-20,2099-12-30
+19,mx_total_t3,3008304,14930-2,Triiodothyronine (T3) [Moles/volume] in Serum or Plasma,Measurement,LOINC,S,1969-12-31,2099-12-30
+19,mx_total_t3,42529254,83125-5,Triiodothyronine (T3) [Moles/volume] in Serum or Plasma by Immunoassay,Measurement,LOINC,S,2017-02-20,2099-12-30
+19,mx_total_t3,2212602,84480,Triiodothyronine T3; total (TT-3),Measurement,CPT4,N,1969-12-31,2099-12-30

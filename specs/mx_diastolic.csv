@@ -1,0 +1,5 @@
+concept_set_id,name,concept_id,concept_code,concept_name,domain,vocabulary,standard_concept,valid_start_date,valid_end_date
+13,mx_diastolic,3012888,8462-4,Diastolic blood pressure,Measurement,LOINC,S,1996-09-05,2099-12-30
+13,mx_diastolic,3034703,8453-3,Diastolic blood pressure--sitting,Measurement,LOINC,S,1996-09-05,2099-12-30
+13,mx_diastolic,3019962,8454-1,Diastolic blood pressure--standing,Measurement,LOINC,S,1996-09-05,2099-12-30
+13,mx_diastolic,3013940,8455-8,Diastolic blood pressure--supine,Measurement,LOINC,S,1996-09-05,2099-12-30

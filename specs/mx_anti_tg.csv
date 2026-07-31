@@ -1,0 +1,11 @@
+concept_set_id,name,concept_id,concept_code,concept_name,domain,vocabulary,standard_concept,valid_start_date,valid_end_date
+21,mx_anti_tg,40653829,LG21864-0,"Thyroglobulin Ab|Arbitrary Concentration|Moment in time|Blood, Serum or Plasma",Measurement,LOINC,C,2018-06-14,2099-12-30
+21,mx_anti_tg,40653828,LG22999-3,"Thyroglobulin Ab.IgG|Arbitrary Concentration|Moment in time|Blood, Serum or Plasma",Measurement,LOINC,C,2018-06-14,2099-12-30
+21,mx_anti_tg,3021200,5380-1,Thyroglobulin Ab [Units/volume] in Serum by Radioimmunoassay (RIA),Measurement,LOINC,S,1969-12-31,2099-12-30
+21,mx_anti_tg,3025547,8098-6,Thyroglobulin Ab [Units/volume] in Serum or Plasma,Measurement,LOINC,S,1969-12-31,2099-12-30
+21,mx_anti_tg,40759656,56536-6,Thyroglobulin Ab [Units/volume] in Serum or Plasma by Immunoassay,Measurement,LOINC,S,2009-08-11,2099-12-30
+21,mx_anti_tg,2212923,86800,Thyroglobulin antibody,Measurement,CPT4,N,1969-12-31,2099-12-30
+21,mx_anti_tg,4065904,17164004,Thyroglobulin antibody measurement,Measurement,SNOMED,S,2002-01-30,2099-12-30
+21,mx_anti_tg,40759754,56635-6,Thyroglobulin IgG Ab [Units/volume] in Serum,Measurement,LOINC,S,2009-08-11,2099-12-30
+21,mx_anti_tg,42529565,83117-2,Thyroglobulin IgG Ab [Units/volume] in Serum or Plasma by Immunoassay,Measurement,LOINC,S,2017-02-20,2099-12-30
+21,mx_anti_tg,44805332,785401000000102,Thyroglobulin IgG antibody measurement,Measurement,SNOMED,S,2011-10-02,2099-12-30

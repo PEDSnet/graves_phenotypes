@@ -1,0 +1,7 @@
+concept_set_id,name,concept_id,concept_code,concept_name,domain,vocabulary,standard_concept,valid_start_date,valid_end_date
+25,dx_celiac,4241413,91867008,Adult form of celiac disease,Condition,SNOMED,S,2002-01-30,2099-12-30
+25,dx_celiac,4218370,396330006,Celiac crisis,Condition,SNOMED,S,2003-07-30,2099-12-30
+25,dx_celiac,194992,396331005,Celiac disease,Condition,SNOMED,S,2003-07-30,2099-12-30
+25,dx_celiac,4267871,61715008,Celiac disease with diffuse intestinal ulceration,Condition,SNOMED,S,2002-01-30,2099-12-30
+25,dx_celiac,36716394,722386009,Celiac disease with epilepsy and cerebral calcification syndrome,Condition,SNOMED,S,2017-01-30,2099-12-30
+25,dx_celiac,36674761,770593004,Refractory celiac disease,Condition,SNOMED,S,2019-01-30,2099-12-30

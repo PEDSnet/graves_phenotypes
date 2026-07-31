@@ -1,0 +1,4 @@
+linters: all_linters(
+    object_usage_linter = NULL
+  )
+encoding: "UTF-8"

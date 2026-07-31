@@ -1,0 +1,7 @@
+"concept_set_id","name","concept_id","concept_code","concept_name","domain","vocabulary","standard_concept","valid_start_date","valid_end_date"
+4,"total thyroidectomy",46270918,"708915006","Endoscopic total thyroidectomy","Procedure","SNOMED","S","2015-07-30","2099-12-30"
+4,"total thyroidectomy",2749799,"0GTK0ZZ","Resection of Thyroid Gland, Open Approach","Procedure","ICD10PCS","S","2014-04-21","2099-12-30"
+4,"total thyroidectomy",2749800,"0GTK4ZZ","Resection of Thyroid Gland, Percutaneous Endoscopic Approach","Procedure","ICD10PCS","S","2014-04-21","2099-12-30"
+4,"total thyroidectomy",2110371,"60240","Thyroidectomy, total or complete","Procedure","CPT4","N","1969-12-31","2099-12-30"
+4,"total thyroidectomy",4073199,"24443003","Total thyroidectomy","Procedure","SNOMED","S","2002-01-30","2099-12-30"
+4,"total thyroidectomy",4030039,"237486002","Total thyroidectomy with cervical lymph node dissection","Procedure","SNOMED","S","2002-01-30","2099-12-30"

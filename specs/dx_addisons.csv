@@ -1,0 +1,6 @@
+concept_set_id,name,concept_id,concept_code,concept_name,domain,vocabulary,standard_concept,valid_start_date,valid_end_date
+23,dx_addisons,443394,363732003,Addison's disease,Condition,SNOMED,S,2002-01-30,2099-12-30
+23,dx_addisons,4298436,76715008,Addison's disease due to autoimmunity,Condition,SNOMED,S,2002-01-30,2099-12-30
+23,dx_addisons,4029576,237760008,Addison's disease with adrenoleucodystrophy,Condition,SNOMED,S,2002-01-30,2099-12-30
+23,dx_addisons,4008545,11244009,"Polyglandular autoimmune syndrome, type 1",Condition,SNOMED,S,2002-01-30,2099-12-30
+23,dx_addisons,4090546,186270000,Tuberculous Addison's disease,Condition,SNOMED,S,2002-01-30,2099-12-30

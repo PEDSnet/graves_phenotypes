@@ -1,0 +1,318 @@
+concept_set_id,name,concept_id,concept_code,concept_name,domain,vocabulary,standard_concept,valid_start_date,valid_end_date
+7,carbimazole,35787841,OMOP2789302,150 ML Carbimazole 2 MG/ML Oral Solution,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,35788023,OMOP2789484,150 ML Carbimazole 2 MG/ML Oral Solution by Drug Tariff Special Order,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21137987,OMOP326097,150 ML Carbimazole 2 MG/ML Oral Suspension,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,35787932,OMOP2789393,150 ML Carbimazole 2 MG/ML Oral Suspension by Drug Tariff Special Order,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21126505,OMOP298428,1 ML Carbimazole 0.25 MG/ML Oral Solution,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21048103,OMOP298430,1 ML Carbimazole 0.25 MG/ML Oral Suspension,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21038271,OMOP298445,1 ML Carbimazole 0.3 MG/ML Oral Solution,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21116733,OMOP298447,1 ML Carbimazole 0.3 MG/ML Oral Suspension,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21146235,OMOP298437,1 ML Carbimazole 0.4 MG/ML Oral Solution,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21116732,OMOP298439,1 ML Carbimazole 0.4 MG/ML Oral Suspension,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21087341,OMOP298432,1 ML Carbimazole 0.5 MG/ML Oral Solution,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21146234,OMOP298435,1 ML Carbimazole 0.5 MG/ML Oral Suspension,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21067769,OMOP298441,1 ML Carbimazole 0.8 MG/ML Oral Solution,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21067770,OMOP298443,1 ML Carbimazole 0.8 MG/ML Oral Suspension,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21156206,OMOP298456,1 ML Carbimazole 12 MG/ML Oral Solution,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21116735,OMOP298458,1 ML Carbimazole 12 MG/ML Oral Suspension,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21048105,OMOP298460,1 ML Carbimazole 1 MG/ML Oral Solution,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21067771,OMOP298462,1 ML Carbimazole 1 MG/ML Oral Suspension,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21048104,OMOP298449,1 ML Carbimazole 2 MG/ML Oral Solution,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,35776352,OMOP2777813,1 ML Carbimazole 2 MG/ML Oral Solution by Drug Tariff Special Order,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21175723,OMOP298451,1 ML Carbimazole 2 MG/ML Oral Suspension,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,35777773,OMOP2779234,1 ML Carbimazole 2 MG/ML Oral Suspension by Drug Tariff Special Order,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21107002,OMOP298464,1 ML Carbimazole 4 MG/ML Oral Solution,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21165980,OMOP298467,1 ML Carbimazole 4 MG/ML Oral Suspension,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21077635,OMOP298453,1 ML Carbimazole 6 MG/ML Oral Suspension,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,19040606,2020,carbimazole,Drug,RxNorm,S,1969-12-31,2099-12-30
+7,carbimazole,21055368,OMOP415088,Carbimazole 0.25 MG/ML,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21153645,OMOP415089,Carbimazole 0.25 MG/ML Oral Solution,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21055369,OMOP415091,Carbimazole 0.25 MG/ML Oral Suspension,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21123922,OMOP415116,Carbimazole 0.3 MG/ML,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21094609,OMOP415117,Carbimazole 0.3 MG/ML Oral Solution,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21084849,OMOP415119,Carbimazole 0.3 MG/ML Oral Suspension,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21104536,OMOP415105,Carbimazole 0.4 MG/ML,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21114296,OMOP415106,Carbimazole 0.4 MG/ML Oral Solution,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21123921,OMOP415108,Carbimazole 0.4 MG/ML Oral Suspension,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21114295,OMOP415099,Carbimazole 0.5 MG/ML,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21084847,OMOP415100,Carbimazole 0.5 MG/ML Oral Solution,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21045587,OMOP415102,Carbimazole 0.5 MG/ML Oral Suspension,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21153647,OMOP415110,Carbimazole 0.8 MG/ML,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21084848,OMOP415111,Carbimazole 0.8 MG/ML Oral Solution,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21094608,OMOP415113,Carbimazole 0.8 MG/ML Oral Suspension,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,19109203,438358,carbimazole 10 MG,Drug,RxNorm,S,1969-12-31,2099-12-30
+7,carbimazole,42942320,OMOP4668960,Carbimazole 10 MG [CAMEN],Drug,RxNorm Extension,S,2018-08-20,2099-12-30
+7,carbimazole,43815885,OMOP774468,Carbimazole 10 MG [Carbimazol Aristo],Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41142151,OMOP2340113,Carbimazole 10 MG [Carbimazol Henning],Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40892159,OMOP2090121,Carbimazole 10 MG [Carbimazol Hexal],Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41142150,OMOP2340112,Carbimazole 10 MG [Neo Thyreo],Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41142149,OMOP2340111,Carbimazole 10 MG [Neo Thyreostat],Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,19107525,432648,carbimazole 10 MG Oral Tablet,Drug,RxNorm,S,1969-12-31,2099-12-30
+7,carbimazole,40837514,OMOP2035476,Carbimazole 10 MG Oral Tablet Box of 100,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40962106,OMOP2160068,Carbimazole 10 MG Oral Tablet Box of 1000,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40731453,OMOP4725715,Carbimazole 10 MG Oral Tablet Box of 100 by A A H,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,40731454,OMOP4725714,Carbimazole 10 MG Oral Tablet Box of 100 by Alliance,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,36060268,OMOP4986071,carbimazole 10 MG Oral Tablet Box of 100 by AMCo,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,41293020,OMOP2490982,Carbimazole 10 MG Oral Tablet Box of 100 by Aristo,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,36060269,OMOP4986072,carbimazole 10 MG Oral Tablet Box of 100 by DE,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,40731452,OMOP4725716,Carbimazole 10 MG Oral Tablet Box of 100 by Macleods,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,35886089,OMOP5033427,carbimazole 10 MG Oral Tablet Box of 100 by Medihealth,Drug,RxNorm Extension,S,2020-12-06,2099-12-30
+7,carbimazole,36060267,OMOP4986070,carbimazole 10 MG Oral Tablet Box of 100 by Morningside,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,36060266,OMOP4986069,carbimazole 10 MG Oral Tablet Box of 100 by TEVA,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,40868647,OMOP2066609,Carbimazole 10 MG Oral Tablet Box of 20,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41024343,OMOP2222305,Carbimazole 10 MG Oral Tablet Box of 250,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41274139,OMOP2472101,Carbimazole 10 MG Oral Tablet Box of 50,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40837513,OMOP2035475,Carbimazole 10 MG Oral Tablet Box of 500,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40856328,OMOP2054290,Carbimazole 10 MG Oral Tablet Box of 50 by Aristo,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,37593117,OMOP4782557,Carbimazole 10 MG Oral Tablet by 1 A,Drug,RxNorm Extension,S,2019-01-16,2099-12-30
+7,carbimazole,40731456,OMOP4725712,Carbimazole 10 MG Oral Tablet by A A H,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,40731457,OMOP4725711,Carbimazole 10 MG Oral Tablet by Alliance,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,36060272,OMOP4986075,carbimazole 10 MG Oral Tablet by AMCo,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,36505497,OMOP4836241,Carbimazole 10 MG Oral Tablet by Aristo,Drug,RxNorm Extension,S,2019-09-03,2099-12-30
+7,carbimazole,36060273,OMOP4986076,carbimazole 10 MG Oral Tablet by DE,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,43797822,OMOP774503,Carbimazole 10 MG Oral Tablet by Hexal,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40731455,OMOP4725713,Carbimazole 10 MG Oral Tablet by Macleods,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,35886090,OMOP5033428,carbimazole 10 MG Oral Tablet by Medihealth,Drug,RxNorm Extension,S,2020-12-06,2099-12-30
+7,carbimazole,36060271,OMOP4986074,carbimazole 10 MG Oral Tablet by Morningside,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,43654085,OMOP774484,Carbimazole 10 MG Oral Tablet by Sanofi,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,36060270,OMOP4986073,carbimazole 10 MG Oral Tablet by TEVA,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,42942319,OMOP4668959,Carbimazole 10 MG Oral Tablet [CAMEN],Drug,RxNorm Extension,S,2018-08-20,2099-12-30
+7,carbimazole,43852001,OMOP774513,Carbimazole 10 MG Oral Tablet [Carbimazol Aristo],Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41223386,OMOP2421348,Carbimazole 10 MG Oral Tablet [Carbimazol Aristo] Box of 100,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41168674,OMOP2366636,Carbimazole 10 MG Oral Tablet [Carbimazol Aristo] Box of 100 by Aristo,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41161196,OMOP2359158,Carbimazole 10 MG Oral Tablet [Carbimazol Aristo] Box of 50,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41200055,OMOP2398017,Carbimazole 10 MG Oral Tablet [Carbimazol Aristo] Box of 50 by Aristo,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,43690103,OMOP774523,Carbimazole 10 MG Oral Tablet [Carbimazol Aristo] by Aristo,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41254353,OMOP2452315,Carbimazole 10 MG Oral Tablet [Carbimazol Henning],Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41254352,OMOP2452314,Carbimazole 10 MG Oral Tablet [Carbimazol Henning] Box of 100,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41285391,OMOP2483353,Carbimazole 10 MG Oral Tablet [Carbimazol Henning] Box of 1000,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41043270,OMOP2241232,Carbimazole 10 MG Oral Tablet [Carbimazol Henning] Box of 100 by Sanofi,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41223384,OMOP2421346,Carbimazole 10 MG Oral Tablet [Carbimazol Henning] Box of 20,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41168672,OMOP2366634,Carbimazole 10 MG Oral Tablet [Carbimazol Henning] Box of 20 by Sanofi,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41285392,OMOP2483354,Carbimazole 10 MG Oral Tablet [Carbimazol Henning] Box of 250,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41098422,OMOP2296384,Carbimazole 10 MG Oral Tablet [Carbimazol Henning] Box of 50,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41066928,OMOP2264890,Carbimazole 10 MG Oral Tablet [Carbimazol Henning] Box of 500,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41168671,OMOP2366633,Carbimazole 10 MG Oral Tablet [Carbimazol Henning] Box of 50 by Sanofi,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40879996,OMOP2077958,Carbimazole 10 MG Oral Tablet [Carbimazol Hexal],Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41066930,OMOP2264892,Carbimazole 10 MG Oral Tablet [Carbimazol Hexal] Box of 100,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41261866,OMOP2459828,Carbimazole 10 MG Oral Tablet [Carbimazol Hexal] Box of 100 by Novartis,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41285393,OMOP2483355,Carbimazole 10 MG Oral Tablet [Carbimazol Hexal] Box of 50,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40949823,OMOP2147785,Carbimazole 10 MG Oral Tablet [Carbimazol Hexal] Box of 50 by Novartis,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41035696,OMOP2233658,Carbimazole 10 MG Oral Tablet [Neo Thyreo],Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41161195,OMOP2359157,Carbimazole 10 MG Oral Tablet [Neo Thyreo] Box of 100,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40856327,OMOP2054289,Carbimazole 10 MG Oral Tablet [Neo Thyreo] Box of 100 by Berlin-Chemie,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41192353,OMOP2390315,Carbimazole 10 MG Oral Tablet [Neo Thyreo] Box of 20,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41261865,OMOP2459827,Carbimazole 10 MG Oral Tablet [Neo Thyreo] Box of 20 by Berlin-Chemie,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41004660,OMOP2202622,Carbimazole 10 MG Oral Tablet [Neo Thyreo] Box of 250,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41192352,OMOP2390314,Carbimazole 10 MG Oral Tablet [Neo Thyreo] Box of 50,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41074642,OMOP2272604,Carbimazole 10 MG Oral Tablet [Neo Thyreo] Box of 50 by Berlin-Chemie,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41223385,OMOP2421347,Carbimazole 10 MG Oral Tablet [Neo Thyreostat],Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41254354,OMOP2452316,Carbimazole 10 MG Oral Tablet [Neo Thyreostat] Box of 100,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41168670,OMOP2366632,Carbimazole 10 MG Oral Tablet [Neo Thyreostat] Box of 100 by Riemser,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40848816,OMOP2046778,Carbimazole 10 MG Oral Tablet [Neo Thyreostat] Box of 20,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41168673,OMOP2366635,Carbimazole 10 MG Oral Tablet [Neo Thyreostat] Box of 20 by Riemser,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41316710,OMOP2514672,Carbimazole 10 MG Oral Tablet [Neo Thyreostat] Box of 250,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41066929,OMOP2264891,Carbimazole 10 MG Oral Tablet [Neo Thyreostat] Box of 50,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41137461,OMOP2335423,Carbimazole 10 MG Oral Tablet [Neo Thyreostat] Box of 50 by Riemser,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21114301,OMOP415180,Carbimazole 12 MG/ML,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21133797,OMOP415181,Carbimazole 12 MG/ML Oral Solution,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21065205,OMOP415183,Carbimazole 12 MG/ML Oral Suspension,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40733745,OMOP4725717,Carbimazole 15 MG,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,40732201,OMOP4725718,Carbimazole 15 MG Oral Tablet,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,40731448,OMOP4725722,Carbimazole 15 MG Oral Tablet Box of 100,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,40731446,OMOP4725724,Carbimazole 15 MG Oral Tablet Box of 100 by A A H,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,40731447,OMOP4725723,Carbimazole 15 MG Oral Tablet Box of 100 by Alliance,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,36060265,OMOP4986065,carbimazole 15 MG Oral Tablet Box of 100 by AMCo,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,36074290,OMOP4986066,carbimazole 15 MG Oral Tablet Box of 100 by DE,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,40731445,OMOP4725725,Carbimazole 15 MG Oral Tablet Box of 100 by Macleods,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,40731450,OMOP4725720,Carbimazole 15 MG Oral Tablet by A A H,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,40731451,OMOP4725719,Carbimazole 15 MG Oral Tablet by Alliance,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,36074291,OMOP4986067,carbimazole 15 MG Oral Tablet by AMCo,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,36074292,OMOP4986068,carbimazole 15 MG Oral Tablet by DE,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,40731449,OMOP4725721,Carbimazole 15 MG Oral Tablet by Macleods,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,21075148,OMOP415185,Carbimazole 1 MG/ML,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21123925,OMOP415186,Carbimazole 1 MG/ML Oral Solution,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21173231,OMOP415189,Carbimazole 1 MG/ML Oral Suspension,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,19040609,331291,carbimazole 20 MG,Drug,RxNorm,S,1969-12-31,2099-12-30
+7,carbimazole,42942318,OMOP4668958,Carbimazole 20 MG [CAMEN],Drug,RxNorm Extension,S,2018-08-20,2099-12-30
+7,carbimazole,21094611,OMOP415158,Carbimazole 20 MG [NeoMercazole],Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,19006936,105383,carbimazole 20 MG Oral Tablet,Drug,RxNorm,S,1969-12-31,2099-12-30
+7,carbimazole,21045590,OMOP415167,Carbimazole 20 MG Oral Tablet Box of 100,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21104541,OMOP415173,Carbimazole 20 MG Oral Tablet Box of 100 by A A H,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40731460,OMOP4725708,Carbimazole 20 MG Oral Tablet Box of 100 by Accord,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,21143719,OMOP415174,Carbimazole 20 MG Oral Tablet Box of 100 by Actavis,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21035730,OMOP415170,Carbimazole 20 MG Oral Tablet Box of 100 by Alliance,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21133796,OMOP415172,Carbimazole 20 MG Oral Tablet Box of 100 by AMCo,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21035729,OMOP415168,Carbimazole 20 MG Oral Tablet Box of 100 by Archimedes,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,36060254,OMOP4986054,carbimazole 20 MG Oral Tablet Box of 100 by CST,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,36060253,OMOP4986053,carbimazole 20 MG Oral Tablet Box of 100 by Dawa,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,21084854,OMOP415171,Carbimazole 20 MG Oral Tablet Box of 100 by DE,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,36060249,OMOP4986049,carbimazole 20 MG Oral Tablet Box of 100 by Flamingo,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,35897308,OMOP5041543,carbimazole 20 MG Oral Tablet Box of 100 by Genesis,Drug,RxNorm Extension,S,2021-01-31,2099-12-30
+7,carbimazole,36958929,OMOP5204016,carbimazole 20 MG Oral Tablet Box of 100 by Glenmark,Drug,RxNorm Extension,S,2023-05-21,2099-12-30
+7,carbimazole,40731459,OMOP4725709,Carbimazole 20 MG Oral Tablet Box of 100 by Macleods,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,36060251,OMOP4986051,carbimazole 20 MG Oral Tablet Box of 100 by Mawdsley-Brooks,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,35886087,OMOP5033425,carbimazole 20 MG Oral Tablet Box of 100 by Medihealth,Drug,RxNorm Extension,S,2020-12-06,2099-12-30
+7,carbimazole,36060250,OMOP4986050,carbimazole 20 MG Oral Tablet Box of 100 by Morningside,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,36120480,OMOP5049433,carbimazole 20 MG Oral Tablet Box of 100 by NorthStar Healthcare Unlimited Company,Drug,RxNorm Extension,S,2021-06-27,2099-12-30
+7,carbimazole,36060256,OMOP4986056,carbimazole 20 MG Oral Tablet Box of 100 by Pilsco,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,36060255,OMOP4986055,carbimazole 20 MG Oral Tablet Box of 100 by Ria Generics,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,40731461,OMOP4725707,Carbimazole 20 MG Oral Tablet Box of 100 by Sigma,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,21104540,OMOP415169,Carbimazole 20 MG Oral Tablet Box of 100 by Sigma-Tau,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40731458,OMOP4725710,Carbimazole 20 MG Oral Tablet Box of 100 by TEVA,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,36060252,OMOP4986052,carbimazole 20 MG Oral Tablet Box of 100 by Tillomed,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,43210340,OMOP483434,Carbimazole 20 MG Oral Tablet Box of 30,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21173229,OMOP415164,Carbimazole 20 MG Oral Tablet by A A H,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40731464,OMOP4725704,Carbimazole 20 MG Oral Tablet by Accord,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,21094613,OMOP415165,Carbimazole 20 MG Oral Tablet by Actavis,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21045589,OMOP415161,Carbimazole 20 MG Oral Tablet by Alliance,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21035728,OMOP415163,Carbimazole 20 MG Oral Tablet by AMCo,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21153651,OMOP415159,Carbimazole 20 MG Oral Tablet by Archimedes,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,36060262,OMOP4986062,carbimazole 20 MG Oral Tablet by CST,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,36060261,OMOP4986061,carbimazole 20 MG Oral Tablet by Dawa,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,21084853,OMOP415162,Carbimazole 20 MG Oral Tablet by DE,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,36060257,OMOP4986057,carbimazole 20 MG Oral Tablet by Flamingo,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,35897309,OMOP5041544,carbimazole 20 MG Oral Tablet by Genesis,Drug,RxNorm Extension,S,2021-01-31,2099-12-30
+7,carbimazole,36965105,OMOP5204015,carbimazole 20 MG Oral Tablet by Glenmark,Drug,RxNorm Extension,S,2023-05-21,2099-12-30
+7,carbimazole,40731463,OMOP4725705,Carbimazole 20 MG Oral Tablet by Macleods,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,36060259,OMOP4986059,carbimazole 20 MG Oral Tablet by Mawdsley-Brooks,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,35886088,OMOP5033426,carbimazole 20 MG Oral Tablet by Medihealth,Drug,RxNorm Extension,S,2020-12-06,2099-12-30
+7,carbimazole,36060258,OMOP4986058,carbimazole 20 MG Oral Tablet by Morningside,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,36120479,OMOP5049432,carbimazole 20 MG Oral Tablet by NorthStar Healthcare Unlimited Company,Drug,RxNorm Extension,S,2021-06-27,2099-12-30
+7,carbimazole,36060264,OMOP4986064,carbimazole 20 MG Oral Tablet by Pilsco,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,36060263,OMOP4986063,carbimazole 20 MG Oral Tablet by Ria Generics,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,40731465,OMOP4725703,Carbimazole 20 MG Oral Tablet by Sigma,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,21094612,OMOP415160,Carbimazole 20 MG Oral Tablet by Sigma-Tau,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40731462,OMOP4725706,Carbimazole 20 MG Oral Tablet by TEVA,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,36060260,OMOP4986060,carbimazole 20 MG Oral Tablet by Tillomed,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,42942317,OMOP4668957,Carbimazole 20 MG Oral Tablet [CAMEN],Drug,RxNorm Extension,S,2018-08-20,2099-12-30
+7,carbimazole,21143720,OMOP415175,Carbimazole 20 MG Oral Tablet [NeoMercazole],Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21025955,OMOP415178,Carbimazole 20 MG Oral Tablet [NeoMercazole] Box of 100,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21045591,OMOP415179,Carbimazole 20 MG Oral Tablet [NeoMercazole] Box of 100 by Amdipharm,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,43199553,OMOP483454,Carbimazole 20 MG Oral Tablet [NeoMercazole] Box of 30,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,43210341,OMOP483465,Carbimazole 20 MG Oral Tablet [NeoMercazole] Box of 30 by Amdipharm,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21173230,OMOP415176,Carbimazole 20 MG Oral Tablet [NeoMercazole] by Amdipharm,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21143717,OMOP415094,Carbimazole 2.5 MG,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21075144,OMOP415095,Carbimazole 2.5 MG Oral Capsule,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21173226,OMOP415097,Carbimazole 2.5 MG Oral Capsule Box of 1,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21065202,OMOP415121,Carbimazole 2 MG/ML,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21114298,OMOP415122,Carbimazole 2 MG/ML Oral Solution,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,35742804,OMOP2744265,Carbimazole 2 MG/ML Oral Solution by Drug Tariff Special Order,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21104538,OMOP415124,Carbimazole 2 MG/ML Oral Suspension,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,35772200,OMOP2773661,Carbimazole 2 MG/ML Oral Suspension by Drug Tariff Special Order,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21084856,OMOP415191,Carbimazole 4 MG/ML,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21035731,OMOP415192,Carbimazole 4 MG/ML Oral Solution,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21133798,OMOP415194,Carbimazole 4 MG/ML Oral Suspension,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,19040610,331292,carbimazole 5 MG,Drug,RxNorm,S,1969-12-31,2099-12-30
+7,carbimazole,42942316,OMOP4668956,Carbimazole 5 MG [CAMEN],Drug,RxNorm Extension,S,2018-08-20,2099-12-30
+7,carbimazole,43779871,OMOP774540,Carbimazole 5 MG [Carbimazol Aristo],Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40829720,OMOP2027682,Carbimazole 5 MG [Carbimazol Henning],Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41173217,OMOP2371179,Carbimazole 5 MG [Carbimazol Hexal],Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21133794,OMOP415131,Carbimazole 5 MG [NeoMercazole],Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41204746,OMOP2402708,Carbimazole 5 MG [Neo Morphazole],Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,19040608,199444,carbimazole 5 MG Oral Tablet,Drug,RxNorm,S,1969-12-31,2099-12-30
+7,carbimazole,21084851,OMOP415140,Carbimazole 5 MG Oral Tablet Box of 100,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40868648,OMOP2066610,Carbimazole 5 MG Oral Tablet Box of 1000,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21075146,OMOP415147,Carbimazole 5 MG Oral Tablet Box of 100 by A A H,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40731470,OMOP4725698,Carbimazole 5 MG Oral Tablet Box of 100 by Accord,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,21114299,OMOP415148,Carbimazole 5 MG Oral Tablet Box of 100 by Actavis,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21035727,OMOP415143,Carbimazole 5 MG Oral Tablet Box of 100 by Alliance,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21084852,OMOP415145,Carbimazole 5 MG Oral Tablet Box of 100 by AMCo,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21055371,OMOP415141,Carbimazole 5 MG Oral Tablet Box of 100 by Archimedes,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,43265944,OMOP573643,Carbimazole 5 MG Oral Tablet Box of 100 by Aristo,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,36060277,OMOP4986080,carbimazole 5 MG Oral Tablet Box of 100 by CST,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,36962794,OMOP5204013,carbimazole 5 MG Oral Tablet Box of 100 by Dawa,Drug,RxNorm Extension,S,2023-05-21,2099-12-30
+7,carbimazole,21153650,OMOP415144,Carbimazole 5 MG Oral Tablet Box of 100 by DE,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,36060274,OMOP4986077,carbimazole 5 MG Oral Tablet Box of 100 by Flamingo,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,36951972,OMOP5204014,carbimazole 5 MG Oral Tablet Box of 100 by Glenmark,Drug,RxNorm Extension,S,2023-05-21,2099-12-30
+7,carbimazole,40731469,OMOP4725699,Carbimazole 5 MG Oral Tablet Box of 100 by Macleods,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,35886091,OMOP5033429,carbimazole 5 MG Oral Tablet Box of 100 by Medihealth,Drug,RxNorm Extension,S,2020-12-06,2099-12-30
+7,carbimazole,36060275,OMOP4986078,carbimazole 5 MG Oral Tablet Box of 100 by Morningside,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,36120478,OMOP5049431,carbimazole 5 MG Oral Tablet Box of 100 by NorthStar Healthcare Unlimited Company,Drug,RxNorm Extension,S,2021-06-27,2099-12-30
+7,carbimazole,36060279,OMOP4986082,carbimazole 5 MG Oral Tablet Box of 100 by Pilsco,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,36060278,OMOP4986081,carbimazole 5 MG Oral Tablet Box of 100 by Ria Generics,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,40731471,OMOP4725697,Carbimazole 5 MG Oral Tablet Box of 100 by Sigma,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,21094610,OMOP415142,Carbimazole 5 MG Oral Tablet Box of 100 by Sigma-Tau,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40731468,OMOP4725700,Carbimazole 5 MG Oral Tablet Box of 100 by TEVA,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,36060276,OMOP4986079,carbimazole 5 MG Oral Tablet Box of 100 by Tillomed,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,41087089,OMOP2285051,Carbimazole 5 MG Oral Tablet Box of 250,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,43166530,OMOP483362,Carbimazole 5 MG Oral Tablet Box of 50,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40899731,OMOP2097693,Carbimazole 5 MG Oral Tablet Box of 500,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40856331,OMOP2054293,Carbimazole 5 MG Oral Tablet Box of 50 by Aristo,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,37593116,OMOP4782556,Carbimazole 5 MG Oral Tablet by 1 A,Drug,RxNorm Extension,S,2019-01-16,2099-12-30
+7,carbimazole,21163450,OMOP415138,Carbimazole 5 MG Oral Tablet by A A H,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40731474,OMOP4725694,Carbimazole 5 MG Oral Tablet by Accord,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,21025954,OMOP415139,Carbimazole 5 MG Oral Tablet by Actavis,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21143718,OMOP415134,Carbimazole 5 MG Oral Tablet by Alliance,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21123923,OMOP415137,Carbimazole 5 MG Oral Tablet by AMCo,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21153648,OMOP415132,Carbimazole 5 MG Oral Tablet by Archimedes,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,43282299,OMOP573642,Carbimazole 5 MG Oral Tablet by Aristo,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,36073579,OMOP4977920,carbimazole 5 MG Oral Tablet by CST,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,36949481,OMOP5204011,carbimazole 5 MG Oral Tablet by Dawa,Drug,RxNorm Extension,S,2023-05-21,2099-12-30
+7,carbimazole,21153649,OMOP415136,Carbimazole 5 MG Oral Tablet by DE,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,36060280,OMOP4986083,carbimazole 5 MG Oral Tablet by Flamingo,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,36936033,OMOP5204012,carbimazole 5 MG Oral Tablet by Glenmark,Drug,RxNorm Extension,S,2023-05-21,2099-12-30
+7,carbimazole,43797823,OMOP774563,Carbimazole 5 MG Oral Tablet by Hexal,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40731473,OMOP4725695,Carbimazole 5 MG Oral Tablet by Macleods,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,35886092,OMOP5033430,carbimazole 5 MG Oral Tablet by Medihealth,Drug,RxNorm Extension,S,2020-12-06,2099-12-30
+7,carbimazole,36060281,OMOP4986084,carbimazole 5 MG Oral Tablet by Morningside,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,36120477,OMOP5049430,carbimazole 5 MG Oral Tablet by NorthStar Healthcare Unlimited Company,Drug,RxNorm Extension,S,2021-06-27,2099-12-30
+7,carbimazole,36060284,OMOP4986087,carbimazole 5 MG Oral Tablet by Pilsco,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,36060283,OMOP4986086,carbimazole 5 MG Oral Tablet by Ria Generics,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,43599895,OMOP774561,Carbimazole 5 MG Oral Tablet by Sanofi,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40731475,OMOP4725693,Carbimazole 5 MG Oral Tablet by Sigma,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,21065203,OMOP415133,Carbimazole 5 MG Oral Tablet by Sigma-Tau,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40731472,OMOP4725696,Carbimazole 5 MG Oral Tablet by TEVA,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,36060282,OMOP4986085,carbimazole 5 MG Oral Tablet by Tillomed,Drug,RxNorm Extension,S,2020-08-16,2099-12-30
+7,carbimazole,42942315,OMOP4668955,Carbimazole 5 MG Oral Tablet [CAMEN],Drug,RxNorm Extension,S,2018-08-20,2099-12-30
+7,carbimazole,43599896,OMOP774573,Carbimazole 5 MG Oral Tablet [Carbimazol Aristo],Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40942312,OMOP2140274,Carbimazole 5 MG Oral Tablet [Carbimazol Aristo] Box of 100,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41074643,OMOP2272605,Carbimazole 5 MG Oral Tablet [Carbimazol Aristo] Box of 100 by Aristo,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41004662,OMOP2202624,Carbimazole 5 MG Oral Tablet [Carbimazol Aristo] Box of 50,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40918518,OMOP2116480,Carbimazole 5 MG Oral Tablet [Carbimazol Aristo] Box of 50 by Aristo,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,43636056,OMOP774584,Carbimazole 5 MG Oral Tablet [Carbimazol Aristo] by Aristo,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41316711,OMOP2514673,Carbimazole 5 MG Oral Tablet [Carbimazol Henning],Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41004661,OMOP2202623,Carbimazole 5 MG Oral Tablet [Carbimazol Henning] Box of 100,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41223387,OMOP2421349,Carbimazole 5 MG Oral Tablet [Carbimazol Henning] Box of 1000,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40980878,OMOP2178840,Carbimazole 5 MG Oral Tablet [Carbimazol Henning] Box of 100 by Sanofi,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40973254,OMOP2171216,Carbimazole 5 MG Oral Tablet [Carbimazol Henning] Box of 50,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40879997,OMOP2077959,Carbimazole 5 MG Oral Tablet [Carbimazol Henning] Box of 500,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40856330,OMOP2054292,Carbimazole 5 MG Oral Tablet [Carbimazol Henning] Box of 500 by Sanofi,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41261868,OMOP2459830,Carbimazole 5 MG Oral Tablet [Carbimazol Henning] Box of 50 by Sanofi,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40942311,OMOP2140273,Carbimazole 5 MG Oral Tablet [Carbimazol Hexal],Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40973253,OMOP2171215,Carbimazole 5 MG Oral Tablet [Carbimazol Hexal] Box of 100,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41261867,OMOP2459829,Carbimazole 5 MG Oral Tablet [Carbimazol Hexal] Box of 100 by Novartis,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41192354,OMOP2390316,Carbimazole 5 MG Oral Tablet [Carbimazol Hexal] Box of 50,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41012185,OMOP2210147,Carbimazole 5 MG Oral Tablet [Carbimazol Hexal] Box of 50 by Novartis,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21104539,OMOP415149,Carbimazole 5 MG Oral Tablet [NeoMercazole],Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21133795,OMOP415153,Carbimazole 5 MG Oral Tablet [NeoMercazole] Box of 100,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21114300,OMOP415156,Carbimazole 5 MG Oral Tablet [NeoMercazole] Box of 100 by Amdipharm,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21123924,OMOP415154,Carbimazole 5 MG Oral Tablet [NeoMercazole] Box of 100 by Mawdsley-Brooks,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40731466,OMOP4725702,Carbimazole 5 MG Oral Tablet [NeoMercazole] Box of 100 by Sigma,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,21173228,OMOP415155,Carbimazole 5 MG Oral Tablet [NeoMercazole] Box of 100 by Sigma-Tau,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,43155603,OMOP483383,Carbimazole 5 MG Oral Tablet [NeoMercazole] Box of 50,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,43210339,OMOP483395,Carbimazole 5 MG Oral Tablet [NeoMercazole] Box of 50 by Amdipharm,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21075147,OMOP415152,Carbimazole 5 MG Oral Tablet [NeoMercazole] by Amdipharm,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21173227,OMOP415150,Carbimazole 5 MG Oral Tablet [NeoMercazole] by Mawdsley-Brooks,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40731467,OMOP4725701,Carbimazole 5 MG Oral Tablet [NeoMercazole] by Sigma,Drug,RxNorm Extension,S,2018-06-03,2099-12-30
+7,carbimazole,21055372,OMOP415151,Carbimazole 5 MG Oral Tablet [NeoMercazole] by Sigma-Tau,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41161197,OMOP2359159,Carbimazole 5 MG Oral Tablet [Neo Morphazole],Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40848817,OMOP2046779,Carbimazole 5 MG Oral Tablet [Neo Morphazole] Box of 250,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41293021,OMOP2490983,Carbimazole 5 MG Oral Tablet [Neo Morphazole] Box of 250 by Roche,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40973252,OMOP2171214,Carbimazole 5 MG Oral Tablet [Neo Morphazole] Box of 50,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40856329,OMOP2054291,Carbimazole 5 MG Oral Tablet [Neo Morphazole] Box of 50 by Roche,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21163449,OMOP415128,Carbimazole 6 MG/ML,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21133793,OMOP415129,Carbimazole 6 MG/ML Oral Suspension,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21602765,H03BB01,carbimazole; oral,Drug,ATC,C,1969-12-31,2099-12-30
+7,carbimazole,21084846,OMOP415086,Carbimazole Oral Capsule,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21075142,OMOP415084,Carbimazole Oral Solution,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21084845,OMOP415085,Carbimazole Oral Suspension,Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40021558,371269,carbimazole Oral Tablet,Drug,RxNorm,S,1969-12-31,2099-12-30
+7,carbimazole,42942321,OMOP4668961,Carbimazole Oral Tablet [CAMEN],Drug,RxNorm Extension,S,2018-08-20,2099-12-30
+7,carbimazole,43617879,OMOP774457,Carbimazole Oral Tablet [Carbimazol Aristo],Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40895377,OMOP2093339,Carbimazole Oral Tablet [Carbimazol Henning],Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40957614,OMOP2155576,Carbimazole Oral Tablet [Carbimazol Hexal],Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,21075143,OMOP415087,Carbimazole Oral Tablet [NeoMercazole],Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40821084,OMOP2019046,Carbimazole Oral Tablet [Neo Morphazole],Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,41207935,OMOP2405897,Carbimazole Oral Tablet [Neo Thyreo],Drug,RxNorm Extension,S,2017-08-23,2099-12-30
+7,carbimazole,40988912,OMOP2186874,Carbimazole Oral Tablet [Neo Thyreostat],Drug,RxNorm Extension,S,2017-08-23,2099-12-30

@@ -1,0 +1,19 @@
+concept_set_id,name,concept_id,concept_code,concept_name,domain,vocabulary,standard_concept,valid_start_date,valid_end_date
+24,dx_vitiligo,42597048,318431000009102,Arabian fading syndrome,Condition,SNOMED Veterinary,S,2010-11-16,2099-12-30
+24,dx_vitiligo,37116377,733069009,"Deafness, vitiligo, achalasia syndrome",Condition,SNOMED,S,2017-07-30,2099-12-30
+24,dx_vitiligo,1340501,OMOP5166156,Exacerbation of vitiligo,Condition,OMOP Extension,S,2022-05-05,2099-12-30
+24,dx_vitiligo,4296217,403269008,Generalized vitiligo,Condition,SNOMED,S,2003-07-30,2099-12-30
+24,dx_vitiligo,4297816,402621008,Idiopathic vitiligo,Condition,SNOMED,S,2003-07-30,2099-12-30
+24,dx_vitiligo,4293575,403267005,Localized vitiligo,Condition,SNOMED,S,2003-07-30,2099-12-30
+24,dx_vitiligo,4081081,238713002,Occupational vitiligo,Condition,SNOMED,S,2002-01-30,2099-12-30
+24,dx_vitiligo,4299692,403268000,Segmental vitiligo,Condition,SNOMED,S,2003-07-30,2099-12-30
+24,dx_vitiligo,4293576,403270009,Trichrome vitiligo,Condition,SNOMED,S,2003-07-30,2099-12-30
+24,dx_vitiligo,138502,56727007,Vitiligo,Condition,SNOMED,S,2002-01-30,2099-12-30
+24,dx_vitiligo,4300898,403271008,Vitiligo due to Köbnerization,Condition,SNOMED,S,2003-07-30,2099-12-30
+24,dx_vitiligo,4227153,87666009,Vitiligo of eyelid,Condition,SNOMED,S,2002-01-30,2099-12-30
+24,dx_vitiligo,36715781,721539008,Vitiligo of eyelid and periocular area,Condition,SNOMED,S,2017-01-30,2099-12-30
+24,dx_vitiligo,4208688,56347002,Vitiligo of pinta,Condition,SNOMED,S,2002-01-30,2099-12-30
+24,dx_vitiligo,3656851,330931000119106,Vitiligo of skin of left eyelid and periocular area,Condition,SNOMED,S,2020-07-30,2099-12-30
+24,dx_vitiligo,3656850,330911000119101,Vitiligo of skin of left upper eyelid and periocular area,Condition,SNOMED,S,2020-07-30,2099-12-30
+24,dx_vitiligo,3656849,330901000119104,Vitiligo of skin of right eyelid and periocular area,Condition,SNOMED,S,2020-07-30,2099-12-30
+24,dx_vitiligo,3656848,330881000119101,Vitiligo of skin of right upper eyelid and periocular area,Condition,SNOMED,S,2020-07-30,2099-12-30

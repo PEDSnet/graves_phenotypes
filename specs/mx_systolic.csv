@@ -1,0 +1,5 @@
+concept_set_id,name,concept_id,concept_code,concept_name,domain,vocabulary,standard_concept,valid_start_date,valid_end_date
+14,mx_systolic,3004249,8480-6,Systolic blood pressure,Measurement,LOINC,S,1996-09-05,2099-12-30
+14,mx_systolic,3018586,8459-0,Systolic blood pressure--sitting,Measurement,LOINC,S,1996-09-05,2099-12-30
+14,mx_systolic,3035856,8460-8,Systolic blood pressure--standing,Measurement,LOINC,S,1996-09-05,2099-12-30
+14,mx_systolic,3009395,8461-6,Systolic blood pressure--supine,Measurement,LOINC,S,1996-09-05,2099-12-30

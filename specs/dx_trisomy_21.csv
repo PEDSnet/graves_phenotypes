@@ -1,0 +1,30 @@
+concept_set_id,name,concept_id,concept_code,concept_name,domain,vocabulary,standard_concept,valid_start_date,valid_end_date
+29,dx_trisomy_21,37206825,787171006,21q22.11q22.12 microdeletion syndrome,Condition,SNOMED,S,2019-07-30,2099-12-30
+29,dx_trisomy_21,4025221,227035005,21q partial distal trisomy,Condition,SNOMED,S,2002-01-30,2099-12-30
+29,dx_trisomy_21,4049000,15841002,21q partial monosomy syndrome,Condition,SNOMED,S,2002-01-30,2099-12-30
+29,dx_trisomy_21,4331883,228050004,21q partial trisomy,Condition,SNOMED,S,2002-01-30,2099-12-30
+29,dx_trisomy_21,4320803,70156005,Anomaly of chromosome pair 21,Condition,SNOMED,S,2002-01-30,2099-12-30
+29,dx_trisomy_21,4302011,78740005,Complete monosomy 21,Condition,SNOMED,S,2002-01-30,2099-12-30
+29,dx_trisomy_21,439125,41040004,Complete trisomy 21 syndrome,Condition,SNOMED,S,2002-01-30,2099-12-30
+29,dx_trisomy_21,37111457,726398002,Deletion of part of chromosome 21,Condition,SNOMED,S,2017-07-30,2099-12-30
+29,dx_trisomy_21,37116469,733194007,Dementia with Down syndrome,Condition,SNOMED,S,2017-07-30,2099-12-30
+29,dx_trisomy_21,619729,897566005,Distal deletion of chromosome 21,Condition,SNOMED,S,2021-01-30,2099-12-30
+29,dx_trisomy_21,619716,897545002,Distal duplication of chromosome 21,Condition,SNOMED,S,2021-01-30,2099-12-30
+29,dx_trisomy_21,3661511,840505007,Down syndrome co-occurrent with leukemoid reaction associated transient neonatal pustulosis,Condition,SNOMED,S,2020-07-30,2099-12-30
+29,dx_trisomy_21,37204735,783619003,DYRK1A-related intellectual disability syndrome due to 21q22.13q22.2 microdeletion,Condition,SNOMED,S,2019-07-30,2099-12-30
+29,dx_trisomy_21,37204182,782691006,Maternal uniparental disomy of chromosome 21,Condition,SNOMED,S,2019-07-30,2099-12-30
+29,dx_trisomy_21,37119145,724644005,Myeloid leukemia co-occurrent with Down syndrome,Condition,SNOMED,S,2017-07-30,2099-12-30
+29,dx_trisomy_21,4110269,254264002,Partial trisomy 21 in Down's syndrome,Condition,SNOMED,S,2002-01-30,2099-12-30
+29,dx_trisomy_21,37118013,726361003,Partial trisomy of chromosome 21,Condition,SNOMED,S,2017-07-30,2099-12-30
+29,dx_trisomy_21,35624054,766720000,Paternal uniparental disomy of chromosome 21,Condition,SNOMED,S,2018-07-30,2099-12-30
+29,dx_trisomy_21,46271361,709469005,Periodontitis co-occurrent with Down syndrome,Condition,SNOMED,S,2015-07-30,2099-12-30
+29,dx_trisomy_21,604954,1003932006,Proximal deletion of chromosome 21,Condition,SNOMED,S,2021-01-30,2099-12-30
+29,dx_trisomy_21,604933,1003905001,Proximal duplication of chromosome 21,Condition,SNOMED,S,2021-01-30,2099-12-30
+29,dx_trisomy_21,4150841,31325007,Ring chromosome 21 syndrome,Condition,SNOMED,S,2002-01-30,2099-12-30
+29,dx_trisomy_21,35622640,764690001,Tetrasomy 21,Condition,SNOMED,S,2018-07-30,2099-12-30
+29,dx_trisomy_21,37110399,724643004,Transient abnormal myelopoiesis co-occurrent with Down syndrome,Condition,SNOMED,S,2017-07-30,2099-12-30
+29,dx_trisomy_21,4159650,371045000,Translocation Down syndrome,Condition,SNOMED,S,2002-07-30,2099-12-30
+29,dx_trisomy_21,3177330,12810001000004106,Trisomy 21 by FISH,Condition,Nebraska Lexicon,S,2016-01-27,2099-12-30
+29,dx_trisomy_21,4006457,205615000,Trisomy 21- meiotic nondisjunction,Condition,SNOMED,S,2002-01-30,2099-12-30
+29,dx_trisomy_21,4006586,205616004,Trisomy 21- mitotic nondisjunction mosaicism,Condition,SNOMED,S,2002-01-30,2099-12-30
+29,dx_trisomy_21,4148897,270521004,Trisomy and partial trisomy of autosome,Condition,SNOMED,S,2002-01-30,2099-12-30

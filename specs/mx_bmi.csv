@@ -1,0 +1,2 @@
+concept_set_id,name,concept_id,concept_code,concept_name,domain,vocabulary,standard_concept,valid_start_date,valid_end_date
+12,mx_bmi,2000000043,BMIFA Z NHANES,BMI for age z score NHANES 2000,Measurement,PEDSnet,S,2015-10-11,2099-12-30

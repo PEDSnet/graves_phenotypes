@@ -1,0 +1,123 @@
+concept_set_id,name,concept_id,concept_code,concept_name,domain,vocabulary,standard_concept,valid_start_date,valid_end_date
+44,dx_hypothyroidism,36717595,722940002,Acquired central hypothyroidism,Condition,SNOMED,S,2017-01-30,2099-12-30
+44,dx_hypothyroidism,37161450,1179381000,Acquired central hypothyroidism due to Sheehan syndrome,Condition,SNOMED,S,2021-11-29,2099-12-30
+44,dx_hypothyroidism,37161451,1179382007,Acquired central hypothyroidism due to pituitary disorder,Condition,SNOMED,S,2021-11-29,2099-12-30
+44,dx_hypothyroidism,138384,111566002,Acquired hypothyroidism,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,607903,1156181008,Adrenocorticotropic hormone resistance syndrome,Condition,SNOMED,S,2021-07-30,2099-12-30
+44,dx_hypothyroidism,4184957,43507005,Adult myxedema,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,45773358,702327009,Allan-Herndon-Dudley syndrome,Condition,SNOMED,S,2014-07-30,2099-12-30
+44,dx_hypothyroidism,4185526,55838005,Athyrotic hypothyroidism sequence,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4034815,237519003,Autoimmune hypothyroidism,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,36716385,722375007,Bamforth Lazarus syndrome,Condition,SNOMED,S,2017-01-30,2099-12-30
+44,dx_hypothyroidism,4132435,26692000,Central hypothyroidism,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,36716764,722938007,Congenital central hypothyroidism,Condition,SNOMED,S,2017-01-30,2099-12-30
+44,dx_hypothyroidism,37110922,725462002,Congenital central hypothyroidism due to thyrotropin-releasing hormone receptor deficiency,Condition,SNOMED,S,2017-07-30,2099-12-30
+44,dx_hypothyroidism,133728,190268003,Congenital hypothyroidism,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,36713742,718690009,Congenital hypothyroidism due to absence of thyroid gland,Condition,SNOMED,S,2017-01-30,2099-12-30
+44,dx_hypothyroidism,37155411,1179404005,Congenital hypothyroidism due to congenital anomaly of thyroid gland,Condition,SNOMED,S,2021-11-29,2099-12-30
+44,dx_hypothyroidism,37161472,1179400001,Congenital hypothyroidism due to dual oxidase maturation factor 2,Condition,SNOMED,S,2021-11-29,2099-12-30
+44,dx_hypothyroidism,36716765,722939004,Congenital hypothyroidism due to iodine deficiency,Condition,SNOMED,S,2017-01-30,2099-12-30
+44,dx_hypothyroidism,37204507,783177006,Congenital hypothyroidism due to maternal intake of antithyroid drug,Condition,SNOMED,S,2019-07-30,2099-12-30
+44,dx_hypothyroidism,37161473,1179401002,Congenital hypothyroidism due to peripheral resistance to thyroid hormone,Condition,SNOMED,S,2021-11-29,2099-12-30
+44,dx_hypothyroidism,37161468,1179397005,Congenital hypothyroidism due to symporter mutation,Condition,SNOMED,S,2021-11-29,2099-12-30
+44,dx_hypothyroidism,37161471,1179399008,Congenital hypothyroidism due to thyroglobulin mutation,Condition,SNOMED,S,2021-11-29,2099-12-30
+44,dx_hypothyroidism,37161467,1179396001,Congenital hypothyroidism due to thyroid deiodinase mutation,Condition,SNOMED,S,2021-11-29,2099-12-30
+44,dx_hypothyroidism,37161465,1179394003,Congenital hypothyroidism due to thyroid peroxidase mutation,Condition,SNOMED,S,2021-11-29,2099-12-30
+44,dx_hypothyroidism,37164395,1230272009,Congenital hypothyroidism due to thyroid stimulating hormone receptor mutation,Condition,SNOMED,S,2022-06-29,2099-12-30
+44,dx_hypothyroidism,37397258,717333002,Congenital hypothyroidism due to transplacental passage of maternal thyroid stimulating hormone binding inhibitory antibody,Condition,SNOMED,S,2016-07-30,2099-12-30
+44,dx_hypothyroidism,4081998,278503003,Congenital hypothyroidism with diffuse goiter,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4130017,237515009,Congenital hypothyroidism without goiter,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4130026,237565000,Congenital iodine deficiency syndrome of mixed type,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4246944,93359004,Congenital malposition of the thyroid gland,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,37161466,1179395002,Consumptive hypothyroidism caused by type 3 iodothyronine deiodinase,Condition,SNOMED,S,2021-11-29,2099-12-30
+44,dx_hypothyroidism,37166448,1259591007,Dementia due to acquired hypothyroidism,Condition,SNOMED,S,2023-01-30,2099-12-30
+44,dx_hypothyroidism,37161455,1179385009,Drug induced acquired central hypothyroidism,Condition,SNOMED,S,2021-11-29,2099-12-30
+44,dx_hypothyroidism,4229107,8868001,Dyshormonogenetic goiter AND iodide leak,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,136933,190304001,Dyshormonogenic goiter,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4233438,440092001,Endemic congenital iodine deficiency syndrome of myxedematous type,Condition,SNOMED,S,2009-01-30,2099-12-30
+44,dx_hypothyroidism,4129362,237526003,Euthyroid with thyroid antibodies,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4030053,237554005,Familial dyshormonogenetic goiter,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,35608125,765326001,Familial glucocorticoid deficiency,Condition,SNOMED,S,2018-07-30,2099-12-30
+44,dx_hypothyroidism,37397527,718183003,Familial thyroid dyshormonogenesis,Condition,SNOMED,S,2016-07-30,2099-12-30
+44,dx_hypothyroidism,4130024,237560005,Generalized thyroid hormone resistance,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,36674793,770631009,Genetic transient congenital hypothyroidism,Condition,SNOMED,S,2019-01-30,2099-12-30
+44,dx_hypothyroidism,4163854,45414006,Glucocorticoid deficiency with achalasia,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,37396504,716338001,Hoffman syndrome,Condition,SNOMED,S,2016-07-30,2099-12-30
+44,dx_hypothyroidism,4291925,37429009,Hypothalamic hypothyroidism,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4314386,216693007,Hypothyroid dwarfism,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4034814,237518006,"Hypothyroid goiter, acquired",Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,140673,40930008,Hypothyroidism,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,37208050,369091000119106,Hypothyroidism caused by amiodarone,Condition,SNOMED,S,2019-07-30,2099-12-30
+44,dx_hypothyroidism,37016342,367631000119105,Hypothyroidism caused by drug,Condition,SNOMED,S,2016-01-30,2099-12-30
+44,dx_hypothyroidism,4172443,49830003,Hypothyroidism caused by food stuff,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4289921,70225006,Hypothyroidism caused by iodide excess,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4095914,190284002,Hypothyroidism caused by resorcinol,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4130018,237520009,Hypothyroidism due to Hashimoto's thyroiditis,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4030047,237521008,Hypothyroidism due to TSH receptor blocking antibody,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4245619,60733007,Hypothyroidism due to amyloidosis,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4175837,42785009,Hypothyroidism due to cystinosis,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4210299,56041007,Hypothyroidism due to defect in thyroid hormone synthesis,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4192649,39444001,Hypothyroidism due to fibrous invasive thyroiditis,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4147364,30229009,Hypothyroidism due to infiltrative disease,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4034824,237556007,Hypothyroidism due to iodide organification defect,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4129369,237555006,Hypothyroidism due to iodide trapping defect,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,37397535,718194004,Hypothyroidism due to mutation in transcription factor of pituitary development,Condition,SNOMED,S,2016-07-30,2099-12-30
+44,dx_hypothyroidism,4303055,78574007,Hypothyroidism due to sarcoidosis,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4268472,63115005,Hypothyroidism due to scleroderma,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,37167445,1264402008,Hypothyroidism due to systemic sclerosis,Condition,SNOMED,S,2023-02-27,2099-12-30
+44,dx_hypothyroidism,45757058,102871000119101,Hypothyroidism due to thyroiditis,Condition,SNOMED,S,2015-01-30,2099-12-30
+44,dx_hypothyroidism,4231548,40539002,Hypothyroidism following radioiodine therapy,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,45757193,10809101000119109,Hypothyroidism in childbirth,Condition,SNOMED,S,2014-07-30,2099-12-30
+44,dx_hypothyroidism,4176015,428165003,Hypothyroidism in pregnancy,Condition,SNOMED,S,2008-01-30,2099-12-30
+44,dx_hypothyroidism,4095912,190282003,Hypothyroidism resulting from para-aminosalicylic acid,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4095913,190283008,Hypothyroidism resulting from phenylbutazone,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,134312,88273006,Iatrogenic hypothyroidism,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4034983,237695004,Idiopathic TSH deficiency,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4309027,83664006,Idiopathic atrophic hypothyroidism,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,37399723,717334008,Idiopathic congenital hypothyroidism,Condition,SNOMED,S,2016-07-30,2099-12-30
+44,dx_hypothyroidism,4236858,405629002,Infant hypothyroidism,Condition,SNOMED,S,2004-01-30,2099-12-30
+44,dx_hypothyroidism,44782482,698577000,Infant hypothyroidism caused by maternal drug,Condition,SNOMED,S,2014-01-30,2099-12-30
+44,dx_hypothyroidism,4236859,405630007,Infant hypothyroidism to 24 months of age,Condition,SNOMED,S,2004-01-30,2099-12-30
+44,dx_hypothyroidism,4202818,52724003,Iodide oxidation defect,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4331585,22558005,Iodide transport defect,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,140062,190279008,Iodine hypothyroidism,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4076302,17885001,Iodotyrosine deiodination defect,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4052693,23536000,Iodotyrosyl coupling defect,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4230503,89261000,Isolated thyrotropin deficiency,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4028612,10718002,Juvenile myxedema,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,3171361,12310001000004109,Lithium induced hypothyroidism,Condition,Nebraska Lexicon,S,2016-01-27,2099-12-30
+44,dx_hypothyroidism,4182596,43153006,Myxedema,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4263049,4641009,Myxedema heart disease,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4275410,64491003,Myxedematous form of cretinism,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,36676796,773987000,Neonatal iodine exposure,Condition,SNOMED,S,2019-01-30,2099-12-30
+44,dx_hypothyroidism,4071079,206457007,Neonatal jaundice with congenital hypothyroidism,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,36717199,722051004,"Obesity, colitis, hypothyroidism, cardiac hypertrophy, developmental delay syndrome",Condition,SNOMED,S,2017-01-30,2099-12-30
+44,dx_hypothyroidism,44783239,699298009,"Ohdo syndrome, Say-Barber-Biesecker-Young-Simpson variant",Condition,SNOMED,S,2014-01-30,2099-12-30
+44,dx_hypothyroidism,37397534,718193005,Peripheral resistance to thyroid hormone,Condition,SNOMED,S,2016-07-30,2099-12-30
+44,dx_hypothyroidism,4232833,360348000,Pituitary thyroid hormone resistance,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4030049,237528002,Post-infectious hypothyroidism,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,132583,237527007,Postablative hypothyroidism,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,137820,27059002,Postoperative hypothyroidism,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,1244151,10753681000119101,Postpartum hypothyroidism,Condition,SNOMED,S,2023-08-31,2099-12-30
+44,dx_hypothyroidism,40609121,57185003,Primary hypothyroidism,Condition,SNOMED,S,2020-07-30,2099-12-30
+44,dx_hypothyroidism,37161453,1179384008,Radiation-induced acquired central hypothyroidism,Condition,SNOMED,S,2021-11-29,2099-12-30
+44,dx_hypothyroidism,4006466,111567006,Refetoff syndrome,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,37166867,1260240000,Resistance to thyroid hormone due to mutation in thyroid hormone receptor alpha,Condition,SNOMED,S,2023-01-30,2099-12-30
+44,dx_hypothyroidism,4220368,82598004,Secondary hypothyroidism,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4223217,83986005,Severe hypothyroidism,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,35622406,763890006,Short stature with delayed bone age due to thyroid hormone metabolism deficiency,Condition,SNOMED,S,2018-07-30,2099-12-30
+44,dx_hypothyroidism,4225129,84781002,Sporadic cretinism,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4183422,54823002,Subclinical hypothyroidism,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4130027,237567008,Subclinical iodine deficiency hypothyroidism,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4269217,63127008,Thyroglobulin synthesis defect,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4030054,237559000,Thyroid hormone resistance syndrome,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4177341,50375007,Thyroid hormone responsiveness defect,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4236235,360353005,Thyrotoxicosis due to pituitary thyroid hormone resistance,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,606080,1142106007,Transient congenital hypothyroidism due to dual oxidase 2 mutation,Condition,SNOMED,S,2021-07-30,2099-12-30
+44,dx_hypothyroidism,4173932,42277004,Transient decreased production of T-3,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4091169,18621008,Transient decreased production of T-4,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4104540,2917005,Transient hypothyroidism,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4079964,276630006,Transient hypothyrotropinemia,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,4173188,276566003,Transient neonatal hypothyroidism,Condition,SNOMED,S,2002-01-30,2099-12-30
+44,dx_hypothyroidism,37161463,1179392004,Traumatic acquired central hypothyroidism,Condition,SNOMED,S,2021-11-29,2099-12-30
+44,dx_hypothyroidism,36675175,771510006,X-linked central congenital hypothyroidism with late-onset testicular enlargement,Condition,SNOMED,S,2019-01-30,2099-12-30
