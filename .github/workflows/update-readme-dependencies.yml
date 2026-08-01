@@ -80,7 +80,7 @@ jobs:
         # Create a clean data frame
         pkg_df <- data.frame(
           Package = names(relevant_packages),
-          Version = sapply(relevant_packages, function(x) x$Version %||% "Unknown"),
+          Version = sapply(relevant_packages, function(x) {if (is.null(x$Version)) "Unknown" else x$Version}),
           stringsAsFactors = FALSE
         )
         
