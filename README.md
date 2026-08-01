@@ -29,7 +29,25 @@ Graves’ disease (GD) is the most common cause of hyperthyroidism in youth. Cur
 ### Built With
 
 <!-- DEPENDENCIES_START -->
-*DO NOT ALTER (unless manually pasting session info)! Dependencies will be automatically updated here from renv.lock*
+**R Version:** 4.4.0
+
+- data.table (1.17.8)
+- dbplyr (2.5.1)
+- dplyr (1.2.1)
+- DT (0.34.0)
+- ggplot2 (4.0.1)
+- gt (1.1.0)
+- kableExtra (1.4.1)
+- knitr (1.50)
+- purrr (1.2.0)
+- readr (2.1.6)
+- rlang (1.2.0)
+- srcr (1.1.2)
+- stringr (1.6.0)
+- table1 (1.5.1)
+- tibble (3.3.0)
+- tidyr (1.3.1)
+- tidyverse (2.0.0)
 <!-- DEPENDENCIES_END -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
